@@ -1,0 +1,1166 @@
+story_id,answer
+87aa0983-9b84-48b1-86ff-160b1567487c-1," A. Two of Jane's students were early for their lessons.
+Explanation: Jane was a professor teaching piano to students. Jane spent the morning sipping coffee and reading a book. Two of Jane's students were early for their lessons.
+Context: Jane was a professor teaching piano to students."
+dfc8584e-13fe-4e26-bdf6-2485e90ef29d-1," A. Nate spent the summer traveling and partying.
+Hypotheses: A. Nate spent the summer traveling and partying. B. Nate decided to spend the entire summer working in the Mines.
+Answer: A. Nate spent the summer traveling and partying.
+Hypotheses"
+bac4a9c0-be9c-41d3-bb5c-474a1aa7a78b-1," A. Anne started losing weight and soon wasn't very hungry.
+Hypotheses: A. Anne started losing weight and soon wasn't very hungry. B. She wanted to bulk up.
+Answer: A. Anne started losing weight and soon wasn't very hungry.
+Hyp"
+e8a69a76-5ab1-4b00-b442-80d33c6e12cd-1," A. Dan adopted a pig.
+Explanation: Dan's neighbors know him for having a strange pet. Dan is glad to have his pet pig be a part of his family.
+Context: Dan's neighbors know him for having a strange pet. Dan is glad to have his pet pig be a"
+78dd77c9-99e3-4977-89d7-bfd8f8de1504-1," A. Jason found a cartoon book at the library.
+Explanation: Jason found a cartoon book at the library. He was looking for a book that would help him learn kung-fu. He found a book that was a cartoon. He was able to learn kung-fu from the book.
+"
+8d12101b-5a38-4bde-9366-c9ca32514f9c-1," A. His buddy Charles was already there.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Tom applied for a job at a call center. Tom and his friend had a lot of fun working together.
+Hypotheses: A. His buddy Charles"
+a16ce8ce-9f32-441a-8113-6997d8988ece-1," A. Some of the other players insulted Bob.
+The task is to select the most probable hypothesis.
+Context: Bob was playing league of legends. Bob was banned from the game for a month afterwards.
+Hypotheses: A. Some of the other players insulted Bob. B. He called"
+a447195b-bd1c-4793-9b9c-c2d5ab7806f9-1," A. Tom's business plan made money for the hotel.
+Explanation: Tom's business plan made money for the hotel.
+Hypotheses: A. Tom's business plan made money for the hotel. B. Because of no experience, Tom was demoted to another position.
+"
+903210da-9c27-4efb-b546-b3af848a153d-1," A. The girls were killed by ISIS.
+The context is two girls have boyfriends in ISIS. ISIS killed them.
+The hypothesis is that the girls were killed by ISIS.
+The explanation is that ISIS killed the girls.
+The context is two girls have boyfriends in ISIS. ISIS killed them.
+"
+582c4ec8-b1d4-4eac-a080-bc5e37e609cd-1," A. Beth found the fireflies had eaten.
+The context is that Beth caught two fireflies in a jar. The hypothesis is that they never survive when caught.
+The context is that Beth caught two fireflies in a jar. The hypothesis is that they never survive when caught.
+The context is that Beth"
+67079c75-ce1f-4ff4-92ed-220f3cc1cde4-1," A. I had a corgie bite, causing me hallucinations.
+The first hypothesis is the most probable. The second hypothesis is not probable.
+Context: I was four years old the first time I was ever bitten by a dog. I tugged it, and the Dalmatian gave me some"
+bb63a874-2cf1-4ffc-8f75-b403c0b26be52," A. The car was in great condition.
+Hypotheses: A. The car was in great condition. B. The driver was so miserable and played raggae music.
+Answer: B. The driver was so miserable and played raggae music.
+Hypotheses: A"
+5387f126-41d3-4e7d-9027-72cf0a6c52a0-1," A. I went shopping and bought more groceries.
+Hypotheses: A. I went shopping and bought more groceries. B. I decided to get some new clothes.
+Answer: A. I went shopping and bought more groceries.
+Hypotheses: A"
+3a317d9a-06fd-4363-80d8-e0be38097d0d-1," A. One of the balls came loose and he lost control of the truck.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Frank was hauling bowling balls in his truck. Frank screamed as he tumbled into the water.
+Hypotheses"
+4140e766-050c-4811-887e-8b12e2be190d-1," A. Dan hit a pipe.
+The context is that Dan was digging in his yard to put in an extension to his home. When he sniffed the air he realized he'd struck a sewage pipe.
+The hypotheses are that A. Dan hit a pipe. B. Dan's sho"
+96996797-6369-4709-9841-6dae421189f6-1," A. Bobby signed up for a tutoring class.
+Explanation: Bobby was having trouble in Algebra. On Monday, Bobby made an A on his Algebra test. Bobby was having trouble in Algebra. On Monday, Bobby made an A on his Algebra test. Bobby was having trouble in Al"
+dffc1dd8-40d1-4ad8-b437-b154915783c8-1," A. Along the winding lane she saw apple trees.
+The context is the lane. The hypothesis is that she saw apple trees.
+The context is the lane. The hypothesis is that she saw apple trees.
+The context is the lane. The hypothesis is that she saw apple trees.
+The context is the"
+2f421a84-5dbc-4fa8-a421-b0d0113de02a-1," A. Mike decided to get a new job inside of a building.
+The context is that Mike is chapped because he spends his time in the cold. The hypothesis is that Mike decided to get a new job inside of a building.
+The context is that Mike is chapped because he spends his time in the"
+eb7720a7-c234-4cb6-ae50-55768d70d5aa-1," A. I determined the bad sound came from worn out spark plugs, which I then replaced.
+Hypotheses: A. I determined the bad sound came from worn out spark plugs, which I then replaced. B. My mechanic checked out my body.
+Answer: B. My mechanic"
+22577f17-e744-4fa0-a8e7-ae764842498c-1," A. Gin's brothers got stuck in the basement window.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Gin's climbed through a window to get into her house. Her brothers raced each other to the one in the basement.
+Hypothes"
+9aa8eeaa-d8e4-4989-bd67-5353513a8140-1," A. She got there late.
+Hypotheses: A. She got there late. B. Sally saw her friend ally at the beach.
+Answer: A. She got there late. B. Sally saw her friend ally at the beach.
+Hypotheses: A. She got"
+9fa532d3-daeb-4269-8f04-71a0b6035fb9-1," A. Julie read a flyer attached to a pole. It was about a lost dog.
+Hypotheses: A. Julie read a flyer attached to a pole. It was about a lost dog. B. Julie saw a missing poster of a lost kitten on a pole.
+Answer"
+ff38d303-fc0d-498f-9342-e193a85cffb5-1," A. Jimmy got plenty of novocaine for the procedure.
+The first hypothesis is the most probable.
+The second hypothesis is the least probable.
+The third hypothesis is the most probable.
+The fourth hypothesis is the least probable.
+The first hypothesis is the most probable.
+The second hypothesis is the"
+e2930580-f202-4f81-b00a-57082c17fd9c-1," A. She quit video games and started walking.
+Explanation: Cynthia really loved video games. After just a few months she had lost the weight.
+Context: The new teacher was very strict.
+Hypotheses: A. She was very strict. B. She was very nice.
+An"
+40ceae28-9539-4b79-94b8-bc3314d479a6-1," A. Jorge asked his father one day for the recipe.
+Explanation: Jorge asked his father one day for the recipe.
+Context: Jorge has always wanted to learn his father's famous recipe for beans. Jorge is proud he has finally learned his father's recipe for beans.
+Hypothes"
+71770122-dc12-4954-84d5-273e789321e32," A. Jenny was scared of the horse.
+Hypotheses: A. Jenny was scared of the horse. B. Jenny rode a horse all day.
+Answer: B. Jenny rode a horse all day.
+Hypotheses: A. Jenny was scared of the horse. B."
+dd50749a-103a-4348-80e7-f23d88bad4a9-1," A. Evan was smart and knew the information.
+Hypotheses: A. Evan took his test by himself. B. Evan was smart and knew the information.
+Answer: A. Evan was smart and knew the information.
+Hypotheses: A. Evan took his test by himself"
+3b2a458e-3967-4eb6-acf9-1b56c6fc23b0-1," A. I rented a comedy instead of a horror movie.
+The context is the movie I watched. The hypothesis is the movie I watched.
+Context: I watched a movie.
+Hypotheses: A. I watched a movie. B. I watched a movie with my friend.
+Answer"
+b3af4672-cc20-4816-84c9-6fd833b9beb1-1," A. The man saw a kid that needed help there.
+The man was sitting on the plane. The man reported the kid to the flight attendants.
+A. The man saw a kid that needed help there.
+B. A kid sat next to the man and spilled a drink on him intentionally."
+4c71ab31-31f0-4ada-900b-c61b996a15b2-1," A. Bill gave the landlord a notice to vacate.
+Explanation: Bill was late on the rent. He had to move out within the month.
+Context: Bill was late on the rent. He had to move out within the month.
+Hypotheses: A. Bill gave the landlord"
+5d0297ab-96c9-48ba-a71d-0da91c57a8ff-1," A. She said I could try making pumpkin pie.
+Hypotheses: A. She said I could try making chicken soup. B. Mother asked me to make chicken soup.
+Answer: B. Mother asked me to make chicken soup.
+Hypotheses: A. She said I"
+23a791d7-8563-416c-8768-c29df02554bc-1," A. The tree was vibrant until it died.
+Hypotheses: A. The tree was vibrant until it died.
+B. I was not able to go and buy a tree.
+Answer: B. I was not able to go and buy a tree.
+Hypotheses:"
+eb3c880b-ca0e-41a4-aa8c-3e602ed593c01," A. Showers make me sleepy.
+The first hypothesis is the most likely one.
+Context: I love taking long warm showers. That's why I take two of them every day.
+Hypotheses: A. Showers make me sleepy. B. Doing what you love is important"
+44a68868-fdf2-4be3-93ad-86599c342dce-1," A. Susan listened to her doctor and realized she was lactose intolerant.
+Explanation: Susan was lactose intolerant. She was not lactose intolerant.
+Context: Susan was always sick. She had a cold for a week.
+Hypotheses: A. Susan was sick because"
+aa917ce0-43a2-46ff-bd14-5d5bdd574263-1," A. She claimed to have befriended a ghost.
+The context is that my stepmother was a wicked woman. I told my dad what she did, but he didn't believe me.
+The hypotheses are A. She claimed to have befriended a ghost. B. But she acted nice"
+237f8984-25de-4a4c-99a8-a99219f1d605-1," A. Our neighbor doesn't like our cat because it gets in his yard.
+Hypotheses: A. Our neighbor doesn't like our cat because it gets in his yard. B. Lilly, our cat, bonded with the girl next door.
+Answer: B. L"
+fd33b1f3-83ad-4947-995e-9d1d69be059f-1," A. My wife entered some raffles at the Christmas bazaar.
+Explanation: My wife entered some raffles at the Christmas bazaar.
+Context: My wife went to a Christmas bazaar. I hope we win some raffles.
+Hypotheses: A"
+8004aded-0087-4023-9f7e-745ec3242ac1-1," A. Liam saved for ten minutes for a new game.
+Explanation: Liam saved for ten minutes for a new game.
+Context: Liam was very proud of himself for saving his money.
+Hypotheses: A. He saved for ten minutes for a new game.
+B. Liam worked"
+7f6a1dae-f4db-4cf3-8038-f4004c17dca1-1," A. Kelly was able to score two goals at the beginning.
+Explanation: Kelly was able to score two goals at the beginning.
+Context: Kelly was playing a soccer match for her University. It was a close game, but without Kelly, the team was unable to win.
+Hypotheses"
+7e890b79-8562-4a6a-bf77-529ee329742a-1," A. Adam's friends felt bad and gave them some of their food.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Adam was happy at his friend's generosity.
+Hypotheses: A. Adam's friends felt bad and gave"
+22dfb240-ff3c-4135-9e91-444e44ec1228-1," A. Mike practices his guitar one day a year.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Mark likes to play guitar. Now he sounds better than ever!
+Hypotheses: A. Mike practices his guitar one day a year.
+"
+3a52741d-0dd9-4b2f-b79d-9449e3dc98cd-1," A. Tina's parents felt sorry for her.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: The teacher asked the students to write a letter to their parents.
+Hypotheses: A. The teacher asked the students to write a letter to"
+da41ccbd-0303-40c2-a26e-9a718a278df9-1," A. Mary hit a mailbox and damaged her front quarter panel.
+The context is Mary was driving home one night after work. Mary was very sad that she would have to pay for a repair.
+The hypotheses are A. Mary hit a mailbox and damaged her front quarter panel. B. Mary hit"
+2333fbe7-309c-413d-8cd4-67ce80eaca90-1," A. People knew of Jon's ability.
+Hypotheses: A. Jon was a good hitter. B. Jon was a good hitter.
+Answer: A. Jon was a good hitter.
+Hypotheses: A. Jon was a good hitter. B"
+d0c35739-190f-4945-8bfa-b700c6889a1b-1," A. Randy did not enjoy the food.
+Explanation: Randy did not enjoy the food.
+Context: Randy was at an Indian restaurant. Randy had never eaten anything so good before.
+Hypotheses: A. Randy did not enjoy the food. B. Randy was trying Indian food for the"
+e4ad0eb1-ed43-4f41-923c-8f1b272570ef-1," A. Harry met no one at the sock.
+Explanation: Harry went to the sock every day to relax and watch the sunset. He talked with her instead and made a good friend.
+Context: Harry went to the sock every day to relax and watch the sunset. He talked with her"
+89e7a088-44f7-4180-b8fe-7e150e962a38-1," A. The crowd was watching two people singing.
+Explanation: The crowd was watching two people singing.
+Context: Jason saw a huge crowd gathered in a park. But fights broke out in the crowd too and surprised Jason.
+Hypotheses: A. The crowd was watching two people singing."
+9009a9c5-a5ea-4281-b5ad-1d413bc27ee9-1," A. The promotion was unexpected.
+The context is that my boss quit and promoted me to her job. I seem to be doing better so I guess that's good.
+The hypothesis is that the promotion was unexpected.
+The explanation is that I have been getting horrible insults by workers.
+The explanation"
+1d1c4d93-6915-4282-844c-83ae6a375840-1," A. He stole the cookies.
+Answer: B. He was sorry for taking so long to pay the money back.
+Answer: A. He stole the cookies.
+Answer: B. He was sorry for taking so long to pay the money back.
+Answer:"
+fca2884b-c607-4b59-a086-2ba021ca0d53-1," A. We had a lot of fun in New York.
+Hypotheses: A. We relaxed on the beach for a week. B. We went to Jamaica.
+Answer: A. We relaxed on the beach for a week.
+Hypotheses: A. We went to Jamaica"
+87c3e711-0f34-4620-b1d7-c33436b52546-1," A. I slipped and bruised my arm.
+The context is the event that happened. The hypothesis is the cause of the event.
+Context: I was playing on top of the monkey bars one day. I had to go to the hospital.
+Hypotheses: A. but I slipped and bru"
+6bdd3686-e49e-4e83-869d-bed942e3e83d-1," Michael had a bad trip to the casino.
+The answer is correct because Michael lost all of his money and had to go home broke.
+Context: Michael always loved to gamble. Michael lost all of his money and had to go home broke.
+Hypotheses: A. Michael had a bad trip"
+2739d4b2-9721-4239-a6ff-6e04d45c4bbe-1," A. I did not wait to get going, I just jumped in.
+B. Today was just another day.
+The first hypothesis is the most probable.
+The second hypothesis is the least probable.
+The third hypothesis is the most probable.
+The fourth hypothesis is the least probable.
+The first hypothesis"
+5667a8aa-a8e0-4055-bdf9-8815e6fe1145-1," A. I used to make coffee in the middle of my mourning routine.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: I set up my coffee pot for coffee in the morning. Now, I make coffee everyday without a mess.
+Hypothes"
+4a68a83f-5da7-4b52-95f4-a6aeaa33927b-1," A. Kelly met one direction.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Kelly was excited to attend a one direction concert. Just as she thought, they were super nice.
+Hypotheses: A. Kelly met one direction. B."
+8cd5c023-1bd7-4821-bd29-26bb06a35ddf2," A. They went to see animals at the zoo but couldn't decide.
+The context is Heather and Marcus were ready for the next step in their relationship. They left the shelter without an animal.
+The hypotheses are A. They went to see animals at the zoo but couldn't decide. B."
+f15ddccd-7a21-45c3-ab3f-241ef3b2e4d31," A. I threw up the pumpkin bars many times.
+The answer is A. I threw up the pumpkin bars many times.
+The answer is A. I threw up the pumpkin bars many times.
+The answer is A. I threw up the pumpkin bars many times.
+The answer is A. I threw"
+03e9bbf0-9783-4c1a-b00c-625d3a59805d-1," A. Mike felt really lonely while eating.
+Explanation: Mike went back home after work for lunch. He ate his slice on the couch in the dark in silence.
+Hypotheses: A. Mike felt really lonely while eating. B. Mike found some leftover papers on the counter.
+"
+0f797de2-3d82-46d1-a370-c278a36ad7851," A. Megan wants to stop doing drugs for her family.
+Explanation: Megan has been struggling with a drug habit for years. She was able to get off drugs after some time.
+Context: Megan has been struggling with a drug habit for years. She was able to get off drugs after some time."
+bf8b9f77-692d-4873-a7e5-30dec273eb4d2," A. May chose her classes carefully.
+Explanation: May chose her classes carefully because she was accepted to college.
+Context: May was accepted to college in Fredonia. She even liked all of her professors.
+Hypotheses: A. May chose her classes carefully. B. May toured the"
+963d3ae8-43ee-424f-afd2-9d225624201f-1," A. Toni drank some tea and went to bed late.
+Explanation: Toni had trouble sleeping. She had the best sleep she had in a long time.
+Context: Toni had trouble sleeping. She had the best sleep she had in a long time.
+Hypotheses: A"
+5348daea-021f-4210-92ae-a0a52b576705-1," A. The date went really well for Toby and Kendra.
+Explanation: The context is that Toby took Kendra to an ice cream parlor for their first date. The pair made plans for a second date the following weekend!
+Context: Toby and Kendra went to the movies for their first date"
+f15ddccd-7a21-45c3-ab3f-241ef3b2e4d32," A. My mother taught me how to make the fruitcake using her recipe.
+The context is the recipe for pumpkin bars. The hypothesis is that my mother taught me how to make the fruitcake using her recipe.
+The context is the recipe for pumpkin bars. The hypothesis is that my mother taught me"
+547e9231-6b71-4cd3-8a82-0d597c315a4a-1," A. James grew up and started a bookstore.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+The task is to select the most probable hypothesis given the context and give"
+be0c5b83-6c8d-40a3-8e0e-e2d9f159f419-1," A. Shawn burned down his house.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Shawn was celebrating his first Christmas in his own place. It took him a couple of hours, but he was able to get it all right.
+Hypotheses"
+8cd70d09-7bad-44ce-8681-101645b5e825-1," A. Francis met a person at the park.
+Explanation: Francis met a person at the park.
+Context: Francis had given up on finding a lover. Now Francis has no longer given up on finding a lover.
+Hypotheses: A. Francis met a person at the park. B"
+76fcb242-5a93-4526-a0d0-1e1daaa6c704-1," A. Stacey and her mom ate cookies.
+Explanation: Stacey and her mom baked cookies.
+Context: It was a beautiful Christmas morning and Stacey was going to bake. When they were done, she took to the kitchen and started to bake.
+Hypotheses: A. St"
+36a44b73-6d19-4fee-bd61-fc600e874248-1," A. The jeep broke up and I got stranded all alone.
+The context is the jeep breaking up and me getting stranded. The hypothesis is that the jeep broke up and I got stranded.
+The context is the jeep breaking up and me getting stranded. The hypothesis is that the jeep broke"
+67041fdb-5cfa-48f4-9ab9-130a7b1be603-1," A. Susan steered to get out of the way of a dog.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Susan went on a bike ride with a friend. She landed hard on the ground breaking her arm.
+Hypotheses: A"
+59888f4b-4a47-45cc-aaa6-c4a7a7dfe8dc-1," A. I brought her home a cat because I couldn't afford to buy her a car.
+Hypotheses: A. I bought a car because I wanted to show her that I could afford it. B. I bought a car because I wanted to show her that I could afford it.
+An"
+18911d29-c93d-4721-aaee-4d395926e7a8-1," A. Gina wanted to walk home with Jamie to help him.
+Hypotheses: A. Gina wanted to walk home with Jamie to help him. B. Jamie was right behind Gina while they were walking.
+Answer: B. Jamie was right behind Gina while they were walking"
+cd2880c6-3e1c-41c5-854d-3b73e2a0ebe21," A. Kelly got there at the nick of time.
+Explanation: Kelly was rushing to get to her flight on time. Kelly boarded the plane.
+Context: Kelly was rushing to get to her flight on time. Kelly boarded the plane.
+Hypotheses: A. Kelly got there"
+106f0b8f-a795-4388-9f40-fe7134bc2946-1," A. Dave gave his dogs a treat and they loved it.
+Explanation: Dave gave his dogs a treat and they loved it.
+Context: Dave had just watched a video of dogs trying lemons. Dave learned not to play mean tricks.
+Hypotheses: A. Dave gave his dogs"
+bc18f305-4f3b-4296-a5ff-702dd706322c1," A. Emily's child was fascinated by the lion's roar.
+Explanation: Emily's child was fascinated by the lion's roar.
+Context: Emily took her child to the zoo. Emily's child walked closer to the lions.
+Hypotheses: A."
+a10dc43b-43f8-4702-8286-c20d23b68336-1," A. Earl could not go to bed early as he enjoyed staying up.
+Explanation: Earl could not go to bed early as he enjoyed staying up.
+Context: Earl was a night owl.
+Hypotheses: A. Earl could not go to bed early as he enjoyed staying up."
+20976b75-b949-4b8a-be45-c733eb7f6539-1," A. Reggie looked in the fridge and found eggs.
+Explanation: Reggie woke up hungry one morning. He cooked the eggs until they were no longer runny.
+Context: Reggie woke up hungry one morning. He cooked the eggs until they were no longer runny. He went to make"
+bf8b9f77-692d-4873-a7e5-30dec273eb4d1," A. Fredonia was far from home and May missed her family and boyfriend.
+Explanation: May was accepted to college in Fredonia. She dropped out of school.
+Context: May was accepted to college in Fredonia. She dropped out of school.
+Hypotheses: A. Fredonia"
+95bb42a0-a3f4-462a-8264-329cb40c772d-1," A. Jill wanted to know what wildlife lived at the ski mountain.
+Explanation: Jill was excited to ski for the first time. When her dad asked why she said because she thought she'd see bunnies.
+Context: Jill was excited to ski for the first time. When her dad asked"
+0d976432-4844-4b5a-b9e0-7af3c174848e-1," A. He saw a horrible crime.
+Explanation: The context is about a boy who was a good boy, he had brown curly hair and kind eyes. He was never the same kind, innocent boy again. The hypothesis is that he saw a horrible crime.
+Context: He was a good boy"
+c8ac86f3-0c8d-430f-96a8-d1374c9c37ff-1," A. Jan took logged all of the inappropriate texts her boss sent her.
+Explanation: Jan's boss was hitting on her. She took the texts and logged them. She didn't tell anyone about it. She didn't tell anyone about it because she didn't want to get fired."
+84c4e8a7-a4b4-4ae9-b9a0-9905ea57bc54-1," A. Walt's son wanted a ball while at the store.
+Explanation: The context is that Walt wanted some ice cream, so he went to the store to get some. When he opened up the ball, he ate his delicious ice cream.
+The hypothesis is that Walt's son wanted a"
+b751714c-5e34-43ac-8e70-c675bddc613c-1," A. We went to the hospital.
+Explanation: My mother and I were hit by lightning. Then we drove away.
+Explanation: My mother and I were hit by lightning. Then we drove away. We went to the hospital.
+Explanation: My mother and I were hit by"
+b95911a4-c63d-4ec9-ac5b-37c8b579fcd2-1," A. In remedial math, he met a beautiful race horse.
+The first hypothesis is the most likely.
+Context: Nate was failing a lot of classes. Soon they were married.
+Hypotheses: A. In remedial math, he met a beautiful race horse. B. Nate was pre"
+9ea7e913-c437-47e6-9b53-2bf8b324f7e2-1," A. The woman was wearing professional clothes and fancy shoes.
+Explanation: The woman was wearing professional clothes and fancy shoes. She was walking outside of a mall. People looked at her like she was crazy.
+Context: A man was walking outside of a mall. People looked at him like he was crazy"
+0a14cd78-254b-4adf-9ca2-da0f4cb6328b-1," A. The cat was in my yard.
+Explanation: The cat was in my yard.
+Context: In Jeff's neighborhood there lived a nasty, old, Siamese cat. When Jeff found out, he kicked the nasty cat.
+Hypotheses: A. The cat was in"
+f80d9033-bd3c-49c1-bcf1-6ec9e92f9b83-1," A. Kiki practiced the piano a lot.
+Explanation: Kiki practiced the piano a lot.
+Context: Kiki wanted to learn to play the piano. Kiki eventually became very good at the piano!
+Hypotheses: A. Kiki practiced the piano a lot. B."
+c230bca2-9977-4ca5-9011-3d56a42b5f88-1," A. Rick saw a child struggling in the water and walked over to help.
+The child was so relieved, he cried with gratitude!
+The child was so relieved, he cried with gratitude.
+The child was so relieved, he cried with gratitude.
+The child was so relieved, he cried with gratitude."
+bf00abac-541b-4853-8e54-f1ef31f5f356-1," A. Jake encountered a man who was quite well off on the street.
+Explanation: Jake was walking home from his college class. Jake brought a pizza slice to the man who was grateful for the meal.
+Context: Jake was walking home from his college class. Jake brought a pizza slice to the man"
+384e9eda-8f62-480d-9988-4efb26155f35-1," A. The true American hoisted the flag on a tall flag pole.
+The context is the American walking to the town square with his flag. The hypothesis is that the American hoisted the flag on a tall flag pole.
+The context is the American walking to the town square with his flag. The hypothesis is"
+ea08ac25-ece5-45f9-bebf-3c02eb6940cf-1," A. It began to rain, so we ran back to the car.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: My son and I were out hiking. On the way home he stared out the window.
+Hypotheses: A. It"
+896a1b17-2dd1-4f0e-9168-7146939f6dcd2," A. Fred had a history of being violent.
+Explanation: Fred's boss called him into the office at the propane filling station. Fred's coworker who saw him assault his boss called the police.
+Context: Fred's boss called him into the office at the propane filling"
+6e1aafc7-0f31-410c-9040-9bb325450602-1," A. She worked one day to afford it.
+Hypotheses: A. She worked one day to afford it. B. So she sold some jewelry she never wore to a second hand store.
+Answer: A. She worked one day to afford it. B. So she sold some jewelry"
+d12c4ece-930d-40d6-85ea-9112993f3e331," A. It was a party for my seventh birthday.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: When I was seven years old, I went swimming with some friends. My birthday was the best day ever.
+Hypotheses: A. It"
+556671c0-e3b5-4407-807b-bc80c524130d-1," A. Jamie went to a dealership.
+Explanation: Jamie went to a dealership because she wanted to buy her first car.
+Context: Jamie wanted to buy her first car. She drove out of the car lot filled with joy!
+Hypotheses: A. Jamie went to a dealership. B"
+97b6825e-0468-4ce7-bbe9-6eb331a6009c-1," A. Amy slipped on the floor and had to go to the hospital.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Amy was getting dressed for work. Her feet sweated and stunk in her shoes at work.
+Hypotheses: A"
+557955c2-8f27-45e0-ae02-498f57755531-1," A. Susan bought tap shoes.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Susan was at the pawn shop. Susan eventually became very proficient at tap dancing.
+Hypotheses: A. Susan bought tap shoes. B. Susan decided"
+7e8df602-b632-4595-967c-fe982b643f3b-1," A. Katy got so mad one day that she ran away from the zoo.
+Hypotheses: A. Katy got so mad one day that she ran away from the zoo. B. Katy decided to run away from her parents.
+Answer: A. Katy got so mad one day that she"
+70629f1f-b629-40b9-8783-ea04509127a0-1," A. We were rained on!
+Hypotheses: A. We met a golden retriever puppy and he played with us. B. We met a golden retriever puppy and he played with us.
+Answer: B. We met a golden retriever puppy and he played"
+6015f416-2703-4d14-937f-5612841d04452," A. Joe woke up too early.
+Explanation: Joe woke up too early because he stretched.
+Context: Joe woke up too early. Joe went back to sleep.
+Hypotheses: A. Joe woke up too early. B. Joe hurt himself stretching.
+Answer: A"
+69742aaa-ec73-4354-9de2-2ee4f8e19ec11," Steve's wife just moved out of the house.
+The context is Steve was very sad. Steve wondered if they could ever get back together.
+The hypotheses are A. Steve's wife just moved out of the house. B. Steve's wife just moved into the house.
+The answer is"
+c350c383-6703-4c81-b61e-1f403481a42b-1," A. Lucas gave in and tried one and loved it.
+Hypotheses: A. Lucas tried the peanut and hated it just like he thought he would. B. Lucas tried the peanut and loved it.
+Answer: B. Lucas tried the peanut and loved it.
+H"
+66b40ad4-25b1-4c11-b71f-caaf7680df20-1," A. We decided to work separately.
+Hypotheses: A. I told my wife we should work at the same company.
+Answer: B. I told my wife we should work at the same company.
+Hypotheses: A. I told my wife we should work at the"
+530a7f9f-c8b5-4b26-a5f5-0bf05d79d08e-1," A. Animals began to eat her plants, so Tish observed their behavior.
+Hypotheses: A. Tish's garden was attacked by a bear. B. Tish's garden was attacked by a fox.
+Answer: A. Tish's garden was attacked by a"
+c2e81e75-d199-44cc-a0a1-761886e7c0a6-1," A. Jake was going to go out this weekend even though his car wouldn't start.
+Hypotheses: A. Jake was going to go out this weekend even though his car wouldn't start. B. Jake was looking forward to meeting friends at the end of the week.
+Answer"
+dbd846d5-0a95-4532-9c0a-89d1c1f2df6b-1," A. Mason got athlete's foot.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Mason loved to work out. Turns out, Mason had gotten athlete's foot.
+Hypotheses: A. Mason became injured while working out. B"
+bede6f42-250a-44ba-8ffe-cf50afb11cd4-1," A. Her mom thought of everything she wanted, wrote it down, and gave the list to Miley.
+Hypotheses: A. She didn't know how to write.
+Answer: B. She didn't know how to write.
+Hypotheses: A. She"
+2b942f74-386c-4e70-acea-cd8c3722370f-1," A. Jaiden went outside to play basketball, but felt more nervous.
+Explanation: Jaiden was nervous about moving to a new home. Jaiden played into the afternoon, and felt his nervousness slip away.
+Context: Jaiden was nervous about moving to a new home. Jaiden played into"
+631e2896-258e-4ddb-af34-b52757f8415c-1," A. The smart watch got wet and stopped working.
+Explanation: Rick had just recently gotten a smart watch. Rick ended up missing his train because he didn't have the time.
+Context: Rick had just recently gotten a smart watch. Rick ended up missing his train because he didn't have"
+75f6ea49-b31c-4577-aa20-f493e0eba1c8-1," A. Jason saw an exotic looking poodle walking along the beach. He had to know who she was.
+Explanation: Jason saw an exotic looking poodle walking along the beach. He had to know who she was.
+Context: Jason went to a beach where there is typically no one."
+8d184896-38b8-4cde-91f5-b17cb2390d3d1," A. Daniel could not turn on the lights at home.
+Explanation: Daniel could not turn on the lights at home because he did not have the key to the breaker box.
+Context: Daniel was in the kitchen. Daniel was looking for the key to the breaker box.
+Hypothes"
+8227f76a-cb7a-48eb-8a69-c715e91fb072-1," A. I accidentally dumped way too much pepper on it.
+Hypotheses: A. I accidentally dumped way too much pepper on it. B. I added some salt to the food.
+Answer: B. I added some salt to the food.
+Hypotheses: A. I"
+c0dcff62-44e2-422a-aaef-923beb31b1a3-1," A. The cop told Dan his license plate was edible.
+Explanation: The cop told Dan his license plate was edible.
+The cop told Dan his license plate was edible.
+The cop told Dan his license plate was edible.
+The cop told Dan his license plate was edible"
+0baf6a77-c910-45af-b87b-bc8707528c51-1," A. Allie tore her jeans while washing them.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Allie was wearing her favorite jeans. She had to repair them.
+Hypotheses: A. Allie tore her jeans while washing"
+75d3389d-55f9-491b-9883-f56bf952c7ba-1," A. Tim looked to his sundial.
+Explanation: Tim was waiting for the mail. It was Sunday so there would be no mail.
+Context: Tim was waiting for the mail. It was Sunday so there would be no mail. Tim was waiting for the mail. It was Sunday so there would"
+16537cae-b01b-499e-ae45-fe35406f9422-1," A. The chicken was not cooked.
+Hypotheses: A. Ronny was not satisfied with the chicken. B. Ronny was not satisfied with the chicken.
+Answer: A. Ronny was not satisfied with the chicken.
+Hypotheses: A. Ronny was not"
+32ef5e38-f9bd-4f28-8fbb-cd7771a08e59-1," A. One day, a bug jumped out of the pantry.
+Explanation: The context is Greta playing with her Jack in the box. The hypothesis is that a bug jumped out of the pantry.
+Context: Greta played with her Jack in the box dozens of times. Greta was"
+d606cdaa-515c-4d65-a9f6-947f8d13432a-1," A. The entire community was at a different sale.
+The bake sale was at the school.
+The bake sale was at the school. The school told me they sold out.
+The bake sale was at the school. The school told me they sold out.
+The bake sale was at the school. The"
+999d9ada-3ccd-4e1d-a971-4d93789aa4aa-1," A. Johnny's friend purposely broke Johnny's science project.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Johnny was a very experimental guy. He kicked his friend out and never talked to him again.
+Hypotheses: A"
+0081e6ba-0d00-4091-a7b6-5c0fe7d857b3-1," A. Sam decorated his house with lots of scary decorations.
+Hypotheses: A. Sam decorated his house with lots of scary decorations. B. Sam made an awesome costume for mountain.
+Answer: B. Sam made an awesome costume for mountain.
+Hypotheses: A. Sam"
+2851728a-131d-4fe3-b88a-90cffa01379c-1," A. Jane was the gold medalist at last years competition.
+Hypotheses: A. Jane was the gold medalist at last years competition. B. Jane performed at the recital.
+Answer: A. Jane was the gold medalist at last years competition.
+Hypotheses"
+2168b3ee-7975-4072-83c8-f29b809c243b-1," A. Todd has love to participate in marathon.
+Hypotheses: A. Todd has love to participate in marathon. B. Todd trained for several months after the race.
+Answer: B. Todd trained for several months after the race.
+Hypotheses: A. Todd has love"
+f963b993-a48b-4390-9464-fbae5f86b518-1," A. Donald's opponent was more popular.
+Explanation: Donald's opponent was more popular.
+Context: Donald was a very successful businessman. He was a very successful businessman.
+Hypotheses: A. Donald was a very successful businessman. B. Donald was a very successful businessman."
+b4adfbf4-2e20-44ca-8e65-036142b4078c-1," A. Sally took a lot of pictures when she went sightseeing.
+Explanation: Sally went to Italy in the spring. When she got home, Sally showed her pictures to all her friends.
+Context: Sally went to Italy in the spring. When she got home, Sally showed her pictures to all her"
+37493eb8-ba2e-4cb3-b270-9da5bdbf8e65-1," A. I got scared because my door started making noise.
+Hypotheses: A. I got scared because my cat was in my bed. B. My cat was in my bed.
+Answer: A. I got scared because my cat was in my bed.
+Hypotheses:"
+0047de81-b7cf-43a0-9f5b-176491b985bb-1," A. There were police down the street arresting people.
+B. I witnessed a wonderful scene.
+The first hypothesis is the most probable. The second is the most probable. The third is the least probable.
+The first hypothesis is the most probable. The second is the most probable. The third is the"
+7f6f41a9-0028-4f8d-b4ec-bcc390591a78-1," A. Cade found a reading student.
+Explanation: Cade found a reading student.
+Context: Cade is struggling to read. Cade's reading improved so much, soon one chapter just wasn't enough!
+Hypotheses: A. Cade found a reading student."
+e6062c32-f1eb-4026-95fc-6cc2db46f70d-1," A. Beth brought her roommate Allison whom I had never met.
+The first hypothesis is the most probable.
+The second hypothesis is the least probable.
+The third hypothesis is the most probable.
+The fourth hypothesis is the least probable.
+The first hypothesis is the most probable.
+The second hypothesis"
+15bdf14b-7fba-43e7-b53e-184ce389a588-1," A. Carl knew the directions to his high school classroom.
+Explanation: Carl was 6 foot 2 and weighed 220 pounds. He approached a white girl in a hallway and she hollered in fear.
+Context: Carl was 6 foot 2 and weighed 220"
+fea12618-5110-4c33-9b89-296d32928aed-1," A. Sam went to the library.
+Hypotheses: A. Sam went to the library. B. He went for a run and his cold got worse.
+Answer: A. Sam went to the library. B. He went for a run and his cold got worse.
+Hyp"
+1540800d-0dfb-4bdd-bad0-aed0ca89df54-1," A. The little girl was lost for several days.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: The little girl went hiking in the mountains with her dad. Her dad came and carried her to safety.
+Hypotheses: A. Somehow"
+99937112-691b-440b-8b49-0083e36796d8-1," A. Marvin's girlfriend Sarah also joined, but she was stationed elsewhere.
+Explanation: Marvin's girlfriend Sarah also joined, but she was stationed elsewhere.
+Context: Marvin was a good student and was accepted to a prestigious university.
+Hypotheses: A. Marvin was accepted to a"
+b6808ad4-57de-4975-b75e-b2b9e5b5cd1e-1," A. We all went to the rodeo.
+Hypotheses: A. We all went to the rodeo. B. They went to the doctor.
+Answer: B. They went to the doctor.
+Hypotheses: A. We all went to the rodeo. B"
+ca6b1a16-e9db-466d-8f90-9b2ed062aa5c-1," A. The city hired contractors to build the mall.
+Explanation: The city wanted to build a mall. When the mall was done it was so beautiful.
+Context: The city wanted to build a mall. When the mall was done it was so beautiful.
+Hypotheses: A. The"
+d313ed5f-56c3-40ee-918a-efeef6818d882," A. My team played a great game.
+Hypotheses: A. I didn't manage my team well and lost all my games. B. My team played a great game.
+Answer: B. My team played a great game.
+Hypotheses: A. I didn"
+87aeeeb4-ca43-4587-ad93-056dea97f0ba-1," A. Tim's drawings improved the more he practiced.
+Hypotheses: A. Tim's drawings improved the more he practiced. B. He was trying to draw an imperfect robot.
+Answer: B. He was trying to draw an imperfect robot.
+Hypotheses: A"
+37b3f8a3-3b87-498c-9be0-daaf96e10b89-1," A. I kept at it and self-published a book. I decided to price the book at $10 per copy.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+The task is to select the most probable hypothesis given the context and give a basic explanation."
+171af203-8619-458c-9cc8-ca5f6107a49b-1," A. My daughter hit a home run.
+The first hypothesis is the most probable.
+The second hypothesis is the least probable.
+The third hypothesis is the most probable.
+The fourth hypothesis is the least probable.
+The first hypothesis is the most probable.
+The second hypothesis is the least probable.
+"
+23beb5ae-0916-466d-b67f-624d80026558-1," A. My best friend wanted to try a new restaurant for lunch.
+The context is the phone call. The hypothesis is the best friend wanted to try a new restaurant for lunch.
+The context is the phone call. The hypothesis is the best friend wanted to go on a trip.
+The context is the phone"
+1b2c8960-b846-49a4-a8a3-46d429f4c4b2-1," A. They went for a short walk around the blanket.
+Hypotheses: A. They went for a short walk around the blanket. B. Tom and Sue took a walk.
+Answer: A. They went for a short walk around the blanket.
+Hypotheses: A."
+3d04c8a4-67ea-4364-8391-f0265adc2117-1," A. Leia drank alcohol before work.
+Explanation: Leia was courteous to her fellow employees.
+Hypotheses: A. Leia was generous to everyone.
+Answer: B. Though, today Leia was generous to everyone.
+Explanation: Leia"
+cd9ce176-fd0b-4d9e-880a-5c1660e1b8e6-1," A. Gina needed to find something to fit in the door handle slot. It was a long shot, but she had to try everything.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Gina needed to find something to fit in the door handle slot"
+108c3481-7efc-43ea-80bc-50b02c7d240f-1," A. Bree bounced and hit the springs.
+Hypotheses: A. Bree bounced and hit the springs. B. Bree jumped down and landed down to the ground.
+Answer: A. Bree bounced and hit the springs. B. Bree jumped down and"
+127daf23-f8a3-45af-94c4-f94e727107271," A. The two young women came across a wolf on their run.
+The two young women spotted a cow.
+The two young women spotted a cow.
+The two young women spotted a wolf.
+The two young women spotted a wolf.
+The two young women spotted a cow.
+The two young women"
+61b6f263-4d6b-4a60-a764-99cd22355d3d-1," A. Adler's dad was pretty sad.
+Explanation: Adler's dad was pretty sad because he was mad at Adler for trying to put a fire ant in his brother's bed.
+Context: Adler tried to put a fire ant in his brother's bed. He"
+195eb16e-c240-4320-8a0f-41e0daa2f51d-1," A. The judges judged the best and worst meals.
+Hypotheses: A. The judges judged the best and worst meals. B. One entree used all required ingredients.
+Answer: A. The judges judged the best and worst meals.
+Hypotheses: A. The judges"
+ea7e69cb-4105-4aab-bd65-588f831ccc4e-1," A. Phil did not know anyone until Nick went through rush.
+Explanation: Nick and Phil became close friends. Nick went through rush.
+Context: Nick was a student at a large university. Nick and Phil became close friends. Nick and Phil became close friends.
+Hypotheses: A."
+49765630-1923-441c-960b-ca1e4441dc08-1," A. Mary and Mark were banned from the wedding reception.
+Hypotheses: A. Mary and Mark got drunk and made kind gestures to the guests.
+B. They began making out on the dance floor during the reception.
+Answer: B. They began making out on the dance floor during"
+ef142000-b8b8-44b0-8558-1033edd89b78-1," A. Danny met some friends at the park.
+Explanation: Danny met some friends at the park.
+Context: Danny was playing with his friends.
+Hypotheses: A. Danny was playing with his friends. B. Danny was playing with his friends and his mom.
+Answer"
+961a77ca-e5a0-4726-bcde-bb1fa1a92c58-1," A. A racial slur used Professor Smith in class.
+The context is that Professor Smith was a well liked teacher of black history. Professor Smith asked for forgiveness, he'd recently had a stroke.
+The hypotheses are that A. A racial slur used Professor Smith in class. B. Professor Smith"
+109cf806-aa3f-4371-9bc3-41a9fcc177bb-1," A. Amanda broke down into tears.
+The context is Amanda was having a very rough day. Amanda decided to call out of work, as her day started out bad.
+The hypotheses are A. Amanda broke down into tears. B. Before long, Amanda started feeling guilty.
+The answer is A."
+c195bdb3-e2fe-43ec-9708-871638d6fd3c-1," A. Neil wanted to see the mountains of Asia. Neil loved being so close to the mountains in Nepal!
+Context: Neil wanted to see the mountains of Asia. Neil loved being so close to the mountains in Nepal!
+Hypotheses: A. Neil took a trip to see the Rocky mountains instead."
+ac365c50-d129-4d35-97d1-f5f2af2f66da-1," A. Donald was eating outside before it started to pour.
+Explanation: Donald was eating outside before it started to pour.
+Context: Every day, Donald starts his mornings by eating a box of donuts. He was soaking wet by the time he got back to his front door.
+H"
+658ff2a6-00f5-4014-8ab1-547cddd9aa0f-1," Karen started feeling sick of her friend.
+The context is that Karen didn't wash her hands after visiting her sick friend. The hypothesis is that Karen started feeling sick of her friend.
+The context is that Karen didn't wash her hands after visiting her sick friend. The hypothesis is that Karen then ate dinner"
+08f96eba-d2d7-4a03-b1b4-d6bda758dc88-1," A. I was tired and I was not able to concentrate on the study. B. My classmate made fun of me.
+Context: I was in a hurry to go to the market. I was in a hurry to go to the market.
+Hypotheses: A. I was in a hurry"
+c9ef6b84-e4e2-4036-8a8d-62f613349884-1," A. Harry met a man in the store and they fought.
+Hypotheses: A. He met a man in the store and they fought. B. Harry saw an old friend while out shopping.
+Answer: B. Harry saw an old friend while out shopping.
+Hypotheses"
+47a3fe43-8741-4dc5-bb21-c151bcb70742-1," A. The Anderson's went and had a great time.
+The Anderson's went and had a great time.
+The Anderson's went and had a great time.
+The Anderson's went and had a great time.
+The Anderson's went and had a great time.
+The Anderson"
+4eb674b8-844c-4279-bf3a-420371f31010-1," A. Pam was upset her cup was broken.
+Explanation: The context is that David and Pam went to a coffee shop. The hypothesis is that Pam was upset her cup was broken.
+Context: David and Pam went to a coffee shop. So she blamed the coffee shop for her cup having a broken"
+8a097b15-5263-4ab8-8e43-9adb3f2cf00f-1," A. I grabbed the money when the woman wasn't looking but a guard was.
+Hypotheses: A. I grabbed the money when the woman wasn't looking but a guard was. B. I decided not to return the money.
+Answer: A. I grabbed the money when"
+0fbadd33-9a9c-493e-a850-552d3ce4fb15-1," A. Ralph had to make a batch of cookies for the first time.
+Explanation: Ralph had to make a batch of cookies for the first time.
+Context: Ralph was in a new class.
+Hypotheses: A. Ralph was in a new class. B. Ralph was in a"
+a3bd6fa6-986a-4633-b24f-41d5ca1d0a96-1," A. She optionaled to get something from a neighbor.
+Hypotheses: A. She optionaled to get something from a neighbor. B. Her parents caught her speeding through the neighborhood so they grounded her from the car.
+Answer: B. Her parents caught her speeding through the neighborhood so"
+cbd66f79-94ff-4565-8933-f0bec44f718a-1," A. Bill lets an older lady on with no fare. A month later she surprises him with a homemade cake.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Bill drives a bus for a living. Bill realizes that a little kindness can go a long way"
+3b32b317-8311-47ef-83a7-d2594c8719c8-1," A. Josh asked the girl from chemistry class out.
+Explanation: Josh asked the girl from chemistry class out.
+Context: Josh was in a hurry to get to his chemistry class. He was late and was worried about getting a bad grade.
+Hypotheses: A. Josh was late to"
+27c1ef75-f02b-4956-9260-ebfee8764c8f-1," A. Tom bet money against his favorite team.
+Explanation: Tom was very pleased his team ended up winning.
+Context: Tom was watching the basketball game on television. Tom was very pleased his team ended up winning.
+Hypotheses: A. Tom bet money against his favorite team. B"
+eaa11059-bdec-4d81-8d54-ca006bff517a-1," A. I got stuck watching a romance movie with my girlfriend.
+The context is that you are watching a movie with your girlfriend. The hypothesis is that you are not enjoying each others company.
+Context: I'm going to the movies with my girlfriend.
+Hypotheses: A. I'm"
+eb5e4621-5d56-4495-98f0-622be6cefa58-1," A. Bogart loved his pig.
+Explanation: Bogart stopped eating bacon because he loved his pig.
+Context: Bogart lived on a farm. Bogart stopped eating bacon.
+Hypotheses: A. Bogart loved his pig. B. Bogart hated the pigs.
+An"
+f0829acc-86fe-44f9-ac9f-4ca6ac2a77181," A. Adam and Angel looked for a house.
+Hypotheses: A. Adam and Angel looked for a house. B. But they were trying to looking for a appartment.
+Answer: A. Adam and Angel looked for a house.
+Hypotheses: A. Adam and"
+f9e6bf5f-ba88-4108-994e-529750445ff11," A. My mom paid me back the next time she could.
+Hypotheses: A. My mom borrowed more the next time she could. B. My mom borrowed more the next time she could.
+Answer: A. My mom paid me back the next time she could.
+Hyp"
+35a3c70b-3275-4421-9d11-ec44095287fd-1," A. Lana didn't invite Nicole to her party.
+Explanation: Nicole hurt Lana by doing something bad.
+Context: Lana and Nicole were always good friends. Though hurt Nicole forgave her to save their friendship.
+Hypotheses: A. Lana didn't invite"
+7afc5a90-083e-4ed3-a237-04e8fc625dcb-1," A. Rose enjoyed the party with her boyfriend.
+Explanation: Rose enjoyed the party with her boyfriend.
+Context: Rose was nervous because she was going to have a baby.
+Hypotheses: A. Rose was nervous because she was going to have a baby. B. Rose was nervous because"
+aed3acc4-6697-4123-9272-207ba8985435-1," A. Jean had way to much to drink.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Jean's job a holiday party. Jean returned to work on Monday and avoided her boss at all cost.
+Hypotheses: A. Jean had"
+317eddc2-e116-47c7-9829-ede3caa700e5-1," A. Jay realized it was bad for his health to always be in a rush.
+Explanation: Jay was in a rush to get to the store. He was in a hurry to get to the store. He was in a hurry to get to the store. He was in a hurry to get to the"
+eec1769b-7af5-4224-9db0-a56f12a78cf5-1," A. James got lost looking at toys.
+Explanation: Billy went to the hardware store with his father. Billy found an employee who called his father for him. Billy found an employee who called his father for him. Billy found an employee who called his father for him. Billy found an employee who called his"
+391f5b4e-ffac-4184-be40-438c4304d9221," A. Jimmy's mom wasn't surprised when she saw him.
+Explanation: Jimmy's mom was surprised when she saw him.
+Context: Jimmy climbed on to the counter while his Mom was distracted. Jimmy laughed.
+Hypotheses: A. Jimmy's mom wasn't"
+e9e73c14-cb6c-4362-9152-34e6b454e2e5-1," A. She was waiting for her boyfriend to come home.
+Hypotheses: A. She was waiting for her boyfriend to come home. B. Suddenly she heard a familiar voice.
+Answer: A. She was waiting for her boyfriend to come home.
+Hypotheses: A."
+5f0fb986-9b3a-4929-ab41-b7a12c1e93ec-1," A. I paid too much.
+Hypotheses: A. I paid too much. B. The chicken expired a week ago.
+Answer: B. The chicken expired a week ago.
+Hypotheses: A. I paid too much. B. The chicken expired a week ago"
+5812d42e-86f8-4820-a3b0-78fa20a3b08c-1," A. June rinsed her hands and arms with lemons.
+Explanation: June rinsed her hands and arms with lemons.
+Context: June worked as a cook at a crab shack. She didn't smell crabby anymore.
+Hypotheses: A."
+943978bb-5cd2-4040-a2f3-ad38a8477e0b-1," A. My girlfriend showed me a video about making pasta.
+The answer is correct because the context is about showing me a video about making pasta. The hypothesis is that my girlfriend showed me a video about making pasta.
+The answer is correct because the context is about showing me a video about making pasta. The hypothesis"
+fde4f0d8-2e98-429c-ace7-5c38769df606-1," A. Javier had a vivid imagination.
+Explanation: Javier had a vivid imagination. He imagined that the toy car would be fun to play with.
+Context: Javier has always asked his parents for a toy car. Unfortunately, the toy car isn't nearly as fun as he had imagined"
+e08b9e1c-d6de-4872-9bf6-d64215bae078-1," A. I got angry because I didn't get it.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: My tutor was explaining a problem to me. He walked away.
+Hypotheses: A. I got angry because I didn'"
+711609b5-9a5b-4402-836e-9ebbc8458d26-1," A. Zach's friend got sick with cancer.
+Explanation: Zach's friend got sick with cancer because he took Zach's money.
+Context: Zach's friend was not happy.
+Hypotheses: A. Zach's friend was not happy because he took Zach's"
+7dc38e77-a406-4933-a6a3-ac421b08cbf7-1," A. Ron left it on the porch of the house.
+Explanation: Ron left the seashell on the porch of the house.
+Context: A man was walking down the street when he saw a woman with a baby. The baby was crying and the woman was trying to calm it down.
+H"
+6ed793f7-b357-414a-a813-6cb9d40206c4-1," A. Helena had to mow the lawn all winter for the toy.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Helena finally got the toy she had begged for for weeks. Helena wasn't very satisfied with the exchange.
+Hypothes"
+1ae618b6-7e17-4bab-ad78-a5bc0903df59-1," A. Although he'd never done it before, he pulled over and changed his mind.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Ted was driving to work when a tire blew on his car. Ted is no longer nervous about changing a tire on"
+dd4432d1-caab-44ad-b2b6-ab85e0c057d9-1," A. Kelly was nervous the kids would be mean to her.
+Hypotheses: A. Kelly was nervous the kids would be mean to her. B. Kelly was nervous about making enemies.
+Answer: A. Kelly was nervous the kids would be mean to her.
+Hypotheses"
+c8435a07-314f-465b-85ed-3e3bb05f50eb-1," A. Betty was exited to find a perfectly round sand dollar.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Betty took a walk along the beach. Betty took her new keepsake home to show her mother.
+Hypotheses: A."
+62587ab6-394e-4fa0-bfd2-104c361d200e-1," A. Tammy and her brother decided to take a nap under the tree.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Tammy went to the park with her brother. After three hours they walked home hand in hand!
+Hypotheses:"
+77f37921-693b-4cb2-bcc8-8c6b8a2757f3-1," A. I searched for them everywhere.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: I woke up for work and couldn't find my shoes. On the couch cushion I found my shoes and was able to go to work.
+Hypotheses"
+1d16e0ec-5b9a-4352-b0e5-71ff02b9880e-1," A. Danny wanted a pet, and his wife loved of dogs.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Danny had grown up with dogs. Danny and his wife picked a cat that they both liked.
+Hypotheses: A. Danny"
+33633fff-980d-42fd-945f-7c557186e2f8-1," A. Mike looked up information, not realizing some was wrong.
+Explanation: Mike looked up information, not realizing some was wrong.
+Context: Mike was writing a report about guitars. His teacher wrote that Wikipedia is a bad source. Mike was writing a report about guitars. His teacher wrote that Wikipedia is"
+83cc928c-b473-4934-9b84-1e3f7346bed8-1," A. Jill found a purse she loved.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Jill loved to bargain hunt at thrift stores. Later, she learned that the bag was Chanel brand and worth thousands!
+Hypotheses: A."
+d76006eb-9467-460e-9f2d-4d954f68cff2-1," A. Harry bought a cap for Peter for a surprise birthday gift.
+Explanation: Harry and Peter were best friends. When Harry was convinced and left, Peter showed everyone his new cap!
+Context: Harry and Peter were best friends. When Harry was convinced and left, Peter showed everyone his new cap!"
+f982ae74-c3d1-41f6-a173-7c3ddec21104-1," A. Unfortunately, Janie broke her leg and couldn't dance.
+Explanation: Janie and Tom decided to go salsa dancing. She took over the whole class, and Tom was happy.
+Context: Janie and Tom decided to go salsa dancing. She took over the whole class,"
+3f56965b-ce1c-44d1-9468-45f85945b971-1," A. While playing golf, Frank stepped in a hole and broke his nail.
+Explanation: Frank broke his nail while playing golf.
+Context: The men played golf every Sunday morning. It was a costly game for Frank this week.
+Hypotheses: A. While playing golf, Frank stepped"
+0239ea56-7067-4605-8a93-419783a789c0-1," A. I wanted a doll that looked like the one I had when I was older.
+Answer: B. Once I wanted an American Girl cowgirl doll.
+Context: I was playing with my dolls and I was sad because I wanted a new doll.
+Hypotheses: A."
+2c9f2267-ec1b-436d-af2a-10d2fd2302d2-1," A. The farmer gave vegetables to his family.
+The farmer planted a large garden for the town. The town always looks forward to the yearly garden.
+The farmer planted a large garden for the town. The town always looks forward to the yearly garden. The farmer planted a large garden for the town. The town"
+f2c2ff3d-b53b-48a5-a22e-d8ebaa8a013a-1," A. Sally's best medium was marker.
+Hypotheses: A. Sally's best medium was marker. B. William worked hard and submitted his work to a gallery.
+Answer: B. William worked hard and submitted his work to a gallery.
+Hypotheses: A"
+e5dd1c8c-b993-40da-9451-42496967f186-1," A. John thought he could get by only by playing football.
+Hypotheses: A. John never practiced.
+Answer: B. John never practiced.
+Hypotheses: A. John thought he could get by only by playing football.
+Answer: B. John never"
+1d24ef2a-98eb-4797-9e52-ebf7a4d15df4-1," A. Mitch wrote an inscription inside the book.
+Explanation: The context suggests that Mitch wrote the inscription inside the book. The hypothesis is supported by the context.
+Context: For Mitch's birthday, his friend gave him a history book. The inscription said that the friend hoped Matched"
+565504d1-6088-4f15-a592-d7dded8412571," A. Barry decided to go bowl.
+The first hypothesis is the most probable.
+Context: Barry loves bowling. Barry was delighted with the new alley.
+Hypotheses: A. Barry decided to go bowl. B. Barry's friends suggested they try a new skydiving center that night."
+f612d4c0-335a-4ae4-8c44-9d9591661dfb-1," A. Kali met with some people.
+Explanation: Kali met with some people.
+Context: Kali went to do her first video music video. She was so turned off, she turned around and left.
+Hypotheses: A. Kali met with some people. B."
+a5cb9952-605f-40db-a67c-c5120f3ee948-1," A. So I decided to start first thing tomorrow morning.
+Hypotheses: A. So I decided to start first thing tomorrow morning. B. There was time for a two mile run before class.
+Answer: A. So I decided to start first thing tomorrow morning. B. There was"
+71fc7ec4-04b0-4c11-915b-93d6aa866186-1," A. I decided to clean it.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: My yard was becoming very sloppy. After I picked the weeds, the yard looked much better.
+Hypotheses: A. I decided to clean it"
+2ef42f27-39bf-40d8-8636-108de35831031," A. My father who I love loved for me to go to games with him.
+The answer is A. My father who I love loved for me to go to games with him.
+The answer is B. Grandfather demanded I watch with him in the hospice.
+The answer is B. Grandfather"
+1048609e-3912-424e-ac74-3b4caec4a2cb-1," A. The jones had an enjoyable day.
+The Jones were looking forward to getting away. Finally as the sun went down they packed up and headed home.
+A. The jones had an enjoyable day.
+B. The Jones went to a horrible town.
+C. The Jones were looking forward to"
+5869fbe2-b5ab-4dae-af9f-e40b03816276-1," A. Cleo asked her parents to sign her up for school.
+Explanation: Cleo wanted to learn to read. She asked her parents to sign her up for school.
+Context: Cleo was a very smart girl. She was very good at math. She was very good at reading. She"
+df657317-604f-48f7-abd6-94b2d3343f78-1," A. I wanted to make homemade cheese.
+The context is the first sentence. The hypothesis is the second sentence.
+The context is the first sentence. The hypothesis is the second sentence.
+The context is the first sentence. The hypothesis is the second sentence.
+The context is the first sentence. The hypothesis"
+0ea89e83-ca2d-48da-abca-245027c6812c1," A. Matty found fleas and flea bites on them and gave them a topical flea treatment.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Matty's cats kept scratching themselves. They were completely healed after that.
+H"
+1ac972de-c238-4aff-a516-9f0a4afc0b23-1," A. The jones lost their boat this summer.
+The jones family went to the lake every summer. Now every summer the Jones go to the lake and cry about their boat.
+A. The jones lost their boat this summer.
+B. Once they got to the lake they took the boat out"
+715cab6a-0f9b-452e-9e76-f09e2de3fb11-1," A. We went swimming in a heated pool.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: I always liked the idea of swimming on New Year's Day. The water was cold but we enjoyed ourselves.
+Hypotheses: A. My"
+274adecf-9505-4827-bacc-1e265433d8f1-1," A. Gretchen was attacked by playful kids.
+Explanation: Gretchen was attacked by playful kids. Gretchen was attacked by playful kids. Gretchen was attacked by playful kids. Gretchen was attacked by playful kids. Gretchen was attacked by playful kids. Gretchen was attacked by playful kids. Gret"
+b6d81d61-4ebf-434c-90ea-43a05b3bab6e-1," A. I turned on the light so I will not trip over a chair on the way to the bathroom.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: I woke up in the middle of the night. I learned that I should always turn on the lights"
+1d4880ad-8571-448a-8754-f35c20b0b992-1," A. Ed looked all over and could not find.
+Explanation: Ed looked all over the field and could not find his horse.
+Context: Ed was in the field one day. He was happy to find his horse.
+Hypotheses: A. Ed was in the field one day."
+58277b50-3382-4021-bd81-861de682935f-1," A. Pippa and George rolled around in the mud with their clothes on.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Pippa and George loved playing in mud puddles. They were covered in mud from head to toe by the time"
+da5ec41e-4fd5-4a1c-b2ad-67fd6c8b11651," A. Joy is very excited but also very nervous.
+Explanation: Joy is very excited because she is singing at church. She is also nervous because she is singing at church.
+Context: Joy's pastor asks her to sing at church. When the time comes for her to sing, Joy faints"
+2ba6a29f-c6cb-4be4-8958-3f76ccf6f08e2," A. They ate most of the pizza and i was still hungry.
+Hypotheses: A. They ate most of the pizza and i was still hungry. B. My brother was kind enough to share.
+Answer: A. They ate most of the pizza and i was still hungry. B"
+044aa8e7-d415-4285-981e-66c412c4e5c8-1," A. Then Tara stood on the steps.
+Explanation: Tara slammed the front door behind her. Instead of yelling at her, they hugged her, glad she was okay.
+Hypotheses: A. Then Tara stood on the steps. B. Tara ran away from home but returned that"
+894d241f-394e-43d2-95ed-e7f01da28361-1," A. I booked a ride to the moon for us.
+Hypotheses: A. I asked Mary to come with me somewhere. B. I asked Mary to come with me somewhere.
+Answer: A. I asked Mary to come with me somewhere.
+Hypotheses: A."
+12a391ef-74e3-43ad-b9f4-3a0b2c345505-1," A. Jeff decided to give to 0 charities this month.
+Explanation: Jeff decided to give to 0 charities this month.
+Context: Jeff took a pen out of his junk drawer to write a check. He wrote ten checks with the red pen.
+Hypotheses: A."
+aef8a3d9-ea8a-4659-a24a-471eb9bbfa26-1," A. Amy was able to stay there and watch the whole show.
+Explanation: Amy was watching a show at her friend's house. Amy couldn't remember the channel and missed the show finish.
+Context: Amy was watching a show at her friend's house. Amy couldn't remember"
+3570e906-de24-44c0-9f6a-d9c48c61d3ec-1," A. I met a person and got married.
+The answer is A.
+The context is ""I didn't date a single growing up.""
+The hypothesis is ""I met a person and got married.""
+The explanation is ""I met a person and got married.""
+The answer is A.
+"
+dec283f7-e03d-480e-9fde-47bfdab33cb3-1," A. Ira ate 63 chips from a single bag of jello.
+The context is that Ira went to the store to buy something to eat. The task is to select the most probable hypothesis given the context.
+The task is to select the most probable hypothesis given the context.
+The task is to"
+e088f8f4-0593-47fe-9f9c-0bdb2ef04d62-1," A. Jim was speeding when he was pulled over.
+The context is Jim was not one to follow the laws strictly. The officer issued a citation to Jim, one that cost him thousands.
+The hypothesis is A. Jim was speeding when he was pulled over.
+The explanation is Jim was speeding when he was"
+0f277b11-2ac7-4769-b857-6055461ec5581," A. She stopped for lunch at a new place.
+Explanation: Diana stopped for lunch at a new place.
+Context: Diana is a student. She is a good student.
+Hypotheses: A. She is a good student. B. She is a good student.
+Answ"
+57f0ad88-0dad-4cce-95da-30175ff0ba401," A. All of Bobby's friends attended.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Bobby was having a birthday party. Bobby had a good party.
+Hypotheses: A. All of Bobby's friends attended. B. Bobby"
+c0b763f6-cab4-4f71-b327-809fdd16e20c-1," A. George saved three years for land and a house.
+Explanation: George saved three years for land and a house.
+Context: George wanted to buy a house but did not have the money. Three years later George drove to his land to live in his own house.
+Hypotheses:"
+46fc0598-5227-403b-8260-57241a9a272f-1," A. The wasps died because of the rock.
+The child threw the rock at the wasp's nest.
+The wasps died because of the rock.
+The child didn't get stung.
+The child didn't throw the rock at the wasp's nest.
+The"
+3e86d474-c6a0-4400-82fd-0ef719edf379-1," A. Jim had to ignore his mom.
+Explanation: Jim's mom was ill and he had to take care of her.
+Context: Jim was a student at a university. He was studying for a test.
+Hypotheses: A. Jim was studying for a test. B."
+35437912-20c3-4c95-9f71-8a19129884e5-1," A. Tim's phone died in the middle of his presentation.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Tim was going to his graphic design class. Tim borrowed the charger and finished the presentation.
+Hypotheses: A. Tim"
+b4f3c7fd-a604-435a-93fd-50520e183e55-1," A. Johnny threw his guitar at the crowd.
+Explanation: Johnny was a punk rocker. The cops shot them.
+Context: Johnny was a punk rocker. The cops shot them.
+Hypotheses: A. Johnny threw his guitar at the crowd. B. He started a song"
+d854dce9-c080-4e3a-a983-2a8b37a70c05-1," A. I told him that getting married to his niece was illegal.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Nicholas came to me one day. He agreed.
+Hypotheses: A. I told him that getting married to his nie"
+d3a567ee-0860-440d-984d-6f296ddc423d-1," A. James found online alternatives for marketing.
+Hypotheses: A. James found online alternatives for marketing. B. James used an advertising company to buy ads.
+Answer: B. James used an advertising company to buy ads.
+Hypotheses: A. James found online alternatives for"
+2e41f1e7-165c-4f8b-9100-c2690401f2f0-1," A. Parents are the only ones who aren't paid for their heroism.
+Hypotheses: A. One friend said he admired his president. B. They argued about whether parents could be considered heroes.
+Answer: A. Parents are the only ones who aren't paid for their"
+8bd50b4c-581e-4d2c-b991-0a2a6e6520ef-1," A. Pat finally proposed marriage.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Pat and Lindsay had been together for 10 years. Lindsay said yes.
+Hypotheses: A. Pat finally proposed marriage. B. lindsay proposed"
+1e778fb4-f071-4851-bc73-82fbf6e33c44-1," A. Fred finished 3rd from last in his first marathon.
+Explanation: Fred’s dad was very proud of him.
+Context: Fred’s dad was very proud of him.
+Hypotheses: A. Fred finished 3rd from last in his first marathon. B."
+f17937ef-0251-4a80-a0c5-e6779805c21e2," A. Rick went to a zoo instead.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Rick told his friends that he hated camping. Rick petted the snake happily.
+Hypotheses: A. Rick went to a zoo instead. B."
+b067f68f-f925-485b-8d72-0a37706cf97c-1," A. Brody broke his cranium.
+Explanation: Brody fell off his bike. A doctor fixed him up.
+Context: Brody fell off his bike. A doctor fixed him up.
+Hypotheses: A. Brody broke his cranium. B. Brody injured his"
+885ab40f-f5db-4ef8-a3ba-687f7bb029cb-1," A. There were three squirrels outside of the church when we were married. When the family threw rice the birds watched.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: We lived in the city when we got married in 1981."
+84249fb9-80ac-477e-9016-89ce6cd7b14a2," A. Bob helped Jane to find a contact.
+Hypotheses: A. Bob, her brother, offered to help her by donating his own.
+Answer: B. Bob, her brother, offered to help her by donating his own.
+Hypotheses: A. Bob, her"
+32211c52-e8bf-4b39-9bfe-ec6141f80a47-1," A. Keenan watched some comedy shows on television.
+Explanation: Keenan liked to laugh. It was just what he needed.
+Context: Keenan was a very good student.
+Hypotheses: A. Keenan was a very good student. B. Keen"
+06fc4da5-de21-4e96-a5a7-76d9546427e8-1," A. The train was broken down.
+The context is Lucy was waiting for a train. Lucy left the station aboard the train.
+The hypothesis is A. The train was broken down.
+The explanation is Lucy got on the train.
+The explanation is Lucy got on the train.
+The explanation is Lucy"
+193f9173-a9de-4101-a6e6-96da7b7365ef-1," A. Kelly still took her non-two-wheeler anyway.
+Hypotheses: A. Kelly still took her bicycle anyway. B. Kelly still took her non-two-wheeler anyway.
+Answer: A. Kelly still took her non-two-wheeler anyway.
+H"
+3df7f464-b071-476b-843a-ad708224316b-1," A. Lucy was trying to put them in the oven.
+Explanation: Lucy was trying to put them in the oven.
+Context: Lucy was making the biscuits for dinner by herself. Lucy moved slowly, but she burned her arm on the oven door.
+Hypotheses: A. Lucy"
+caaeb42b-6ef3-4523-a758-0796475fd746-1," A. Her friend gave her a new coat.
+Explanation: Jordan loves vanilla scented candles. She burns it every day.
+Context: Jordan loves vanilla scented candles. She burns it every day.
+Hypotheses: A. Her friend gave her a new coat. B. Jordan bought"
+8ec15d43-6ae9-495f-99ca-a76f776e7695-1," A. Becky wanted to impress her pals. She walked along the road picking up rocks to fill the spaces.
+Hypotheses: A. Becks friends have a rock collection. B. The little stone house she had envisioned had big gaps.
+Answer: A. Becky wanted to impress"
+cdbdae8f-03ce-4835-aabc-7d6694204e4b-1," A. Rita got a present for her mom.
+Explanation: Rita got a present for her mom.
+Context: Rita wanted to do something special for her mom. Afterwards, her mother thanked Rita for being so thoughtful.
+Hypotheses: A. Rita got a present for her mom."
+b42168ef-7492-408e-a8a7-1cced17b9512-1," A. He went to a massage therapist and liked it.
+Explanation: Craig went to a massage therapist because he had trouble with his spine. He liked it because he got relief from his pain.
+Context: Craig had trouble with his spine. Craig now goes there at least once a week.
+H"
+c9e0ad92-16a3-4721-b221-bc7a7ea721952," A. The team made the winning touchdown.
+Explanation: The context is the football team had worked hard all season. The crowd all stood up in their seats and applauded wildly. The hypothesis is the team made the winning touchdown.
+Context: The football team had worked hard all season. The crowd all"
+4fe38f87-15d1-4039-a76a-0001ab7180ba-1," A. Jill's mom said she did not have her birth mom's number.
+Explanation: Jill's mom said she did not have her birth mom's number.
+Context: Jill was adopted but had always wondered about her real mom. Jill called her adoptive mom and thanked her for"
+bb074ec5-dc10-4ca3-8cc0-500019d7a5ba-1," A. We knew we needed to get a new laptop. But we decided on a Mac because we thought it was best.
+Hypotheses: A. the budget was very low to buy an expensive one. B. We was looking for the best resort.
+Answer: A. We knew we"
+14791a39-5879-4cc8-91ef-ce366e93bdc61," A. I decided to leave it alone.
+Hypotheses: A. I tried cleaning it out. B. I tried cleaning it out.
+Answer: A. I tried cleaning it out.
+Hypotheses: A. I tried cleaning it out. B. I tried cleaning it"
+7ed61df8-cd66-491a-9466-046f5994c4c3-1," A. Emily used a lot of red paint.
+Explanation: Emily used a lot of red paint.
+Context: Emily was working on a painting. She had ruined her painting with a huge stroke of white.
+Hypotheses: A. Emily used a lot of red paint. B. She"
+6aa302f5-f690-41b4-a91e-ff4ca5526dad-1," A. He lowered the balloon right before the helium blower stopped.
+The context is the balloon was flying high in the sky. The man was glad to be alive. The hypothesis is the balloon was punctured and fell.
+The context is the balloon was flying high in the sky. The man was glad"
+2e93f0cb-6955-46b0-a12f-458901532c08-1," A. Karen wanted to go to a cheap restaurant.
+Explanation: Karen wanted to go to a cheap restaurant.
+Context: Karen wanted to go to a cheap restaurant.
+Hypotheses: A. Karen wanted to go to a cheap restaurant.
+B. Karen decided to make Chinese food for"
+07d077be-6bd2-4deb-b13b-60b75365473a-1," A. JoAnne ran into her estranged sister.
+Explanation: JoAnne stopped at the store on her way to work. JoAnne then took the entire day off work.
+Hypotheses: A. JoAnne ran into her estranged sister. B. Jo"
+ccb4ad57-5f35-495c-887e-b94243db7c35-1," A. Jenny was seen in the emergency room and was asked to follow security to leave.
+The context is Jenny was driving down the road when suddenly another car hit her. Jenny walked back into the hospital and shook the doctor's hand.
+The hypotheses are A. Jenny was seen in the emergency room and"
+a473186c-ffde-4b02-bfed-88205d40aa08-1," A. Frannie had to use the puke bag because of nausea.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Frannie was on a flight. Luckily, the attendants helped her to clean up.
+Hypotheses:"
+ecb1b244-9245-4c6d-a0d0-ea7a2c796589-1," A. Amy found some cash on the ground and picked it up.
+Explanation: Amy was going to Walgreen's one night. Amy hadn't seen anyone go in the store so she kept the cash.
+Context: Amy was going to Walgreen's one night. Amy hadn't"
+28c1058a-5923-4a6a-86e1-7813922e271d-1," A. He met a boy at a party and he talked Michael into stealing a car.
+Explanation: Michael regretted ever meeting him because he was a mean bully.
+Context: Michael was a bully. He was mean to everyone.
+Hypotheses: A. He was a"
+eec681d4-5db0-454b-9c4b-581abd631902-1," A. Bob was excited to go out and build a snowman.
+The first snow of the winter is a context. The task is to select the most probable hypothesis.
+The task is to select the most probable hypothesis.
+The task is to select the most probable hypothesis.
+The task is to select the"
+a0e28d0b-f3ad-4bf7-bfbb-e5c1446148e7-1," A. He couldn't afford the rent.
+Explanation: The landlord lowered the rent and he couldn't pay.
+Explanation: The landlord lowered the rent and he couldn't pay.
+Explanation: The landlord lowered the rent and he couldn't pay.
+Explan"
+829ba485-874b-4421-a44d-fbf657e7ccc9-1," A. Sal trashed the popcorn many times.
+Hypotheses: A. Sal trashed the popcorn many times. B. Sal was really hungry.
+Answer: A. Sal trashed the popcorn many times.
+Hypotheses: A. Sal trashed the pop"
+c53cf763-722c-40f7-b177-08811eb55fcb-1," A. My sister came over and I was kicked out.
+Hypotheses: A. My sister came over and I was kicked out. B. Then my grandfather decided to marry her childhood sweetheart.
+Answer: B. Then my grandfather decided to marry her childhood sweetheart.
+Hyp"
+851fc250-1bed-47ea-8ef3-60a95053ca16-1," A. Lucy received a gift card as a gift.
+Explanation: Lucy received a gift card as a gift.
+Context: Lucy was in the kitchen.
+Hypotheses: A. Lucy was in the kitchen. B. Lucy was in the kitchen with her mother.
+Answer:"
+cde1252f-f3a0-4581-ba60-14b2a794f20a-1," A. Sheila spared no expense when she planned her wedding, buying only the most lavish decorations and food.
+Hypotheses: A. Sheila got married at the town hall.
+Answer: B. Sheila got married at the town hall.
+Context: Sheila was determined to"
+94e24b1f-a120-4f54-a4ce-0fdc43070ff7-1," A. Joe got into a bike accident.
+Explanation: Joe was driving to work. Unfortunately, Joe had to buy a new car.
+Context: One morning, Joe was driving to work. Unfortunately, Joe had to buy a new car. A. Joe got into a bike accident. B. Joey"
+04dad9be-d5b7-4171-a3d6-a1942147bc47-1," A. Sue looked outside for her ring.
+Hypotheses: A. Sue looked outside for her ring. B. Sue told a ex boyfriend who pulled it out of his pocket.
+Answer: B. Sue told a ex boyfriend who pulled it out of his pocket.
+Hypotheses"
+e44c9a8a-94bd-4c2e-9d50-97fe07c060ed-1," A. She had the time of her life!.
+Hypotheses: A. She had the time of her life!. B. Ariana loved the mountains.
+Answer: A. She had the time of her life!.
+Hypotheses: A. She had the time"
+309811d9-8b8f-4bdc-97d8-59d7be4bf5e7-1," A. Another dog was barking.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: I took my dog to the park the other day. Eventually his owner came and restrained him.
+Hypotheses: A. Another dog was barking."
+7e4b3080-dade-4f76-b5ca-582bbd3d2517-1," A. They hadn't been home in years.
+Explanation: The context is that it was late and Gina and her family were going home. The hypothesis is that they hadn't been home in years.
+Context: It was late and Gina and her family were going home. It was"
+73d5cd76-f7fe-46d9-8b56-e1ee3431e7a4-1," A. Tom and Jerry's tires popped and they walked home.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Tom and Jerry were riding their bikes. It was a horrible 3 hours for them.
+Hypotheses: A. Tom and"
+dfd78fb7-241e-4e4d-a80f-46ba8727fe20-1," A. She could not find them forever.
+The answer is A. She could not find them forever.
+The answer is A. She could not find them forever. The context is Marya had misplaced her house keys. The hypothesis is A. She could not find them forever.
+The answer is A"
+7045c09d-485b-40a7-a8b7-442d7d4fa9fb-1," A. The chicken got burned.
+The context is Marc made chicken for dinner. However, it was delicious, so they didn't mind.
+The hypotheses are A. The chicken got burned. B. forgot to stuff it with bread.
+The explanation is A. The chicken got burned.
+The"
+3ac26be6-c668-4eb5-900f-86351eea0b08-1," Susie grabbed her coffee mug.
+The context is Susie was running late for work. Her dog had taken it outside.
+The hypotheses are A. Susie grabbed her coffee mug. B. She couldn't find her phone.
+The explanation is Susie grabbed her coffee mug.
+The explanation"
+e0105d64-5710-45ef-9ab6-12c3f3614417-1," A. The waiter misspelled the special entree.
+The sign painter misspelled the name of the restaurant!.
+The sign painter misspelled the name of the restaurant!.
+The sign painter misspelled the name of the restaurant!.
+The sign painter misspelled the name"
+00da6576-4444-477a-b2b6-f3936ce8e963-1," A. The waiter brought the wrong food twice and didn't apologize.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Yesterday Kelly went out to eat. She did not leave a tip and never wanted to return.
+Hypotheses: A"
+c232b7d7-2e19-403b-b8f6-48ff1b0ee67c-1," A. Stephanie was her graduation.
+Stephanie was her graduation.
+Stephanie was her graduation. She was a reporter.
+Stephanie was her graduation. She was a reporter. She was a reporter.
+Stephanie was her graduation. She was a reporter. She was a reporter."
+4ba92854-6822-4f71-82b1-cd43aeb54d4b-1," A. She needed to get a new photo taken for her passport.
+The context is that she went to the barber for a haircut and picked out an outfit. The photographer took a picture of her smiling.
+The hypothesis is that she needed to get a new photo taken for her passport.
+The"
+8444b0dc-60d7-4e95-9c62-7a47ef12ef46-1," A. Gina made new friends with different hair colors.
+Explanation: Gina was bullied because she was different. She was the only girl with long hair. She was the only girl with a different color of hair. She was the only girl with a different color of skin. She was the only"
+f4d5db55-fcc9-46ee-8abe-8af883b2f5c9-1," A. Matt joined the Army.
+Explanation: Matt wanted to be an action hero like in the movies. In his attempt to save the day, he was shot and killed.
+Context: Matt was a good student. He was a good friend. He was a good son.
+Hypotheses"
+3cb11099-3cb1-4ccf-8956-e47d9ce9740e-1," A. Her coworkers were welcoming, and her work was easy.
+Hannah went in and had a ok first day.
+Hannah went in and had a ok first day.
+Hannah went in and had a ok first day.
+Hannah went in and had a ok first day.
+"
+7481c81f-3160-4ea3-a034-2bc2e89d6f2e-1," A. Steve became a pilot.
+Explanation: Steve wanted to fly planes. He was happy that his dreams came true!
+Context: Steve wanted to fly planes. He was happy that his dreams came true!
+Hypotheses: A. Steve became a pilot. B. Steve signed up for"
+0ffedc8a-9a29-4003-8029-9930f53fb45c-1," A. Everyone in the class had fun.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: Katie's class took a trip to the zoo today. The trip to the zoo was a success and Katie can't wait to go back.
+Hyp"
+db05c29a-9aed-4b8e-a38e-82667340eb17-1," A. Charlie caught a cold one day.
+Explanation: Sandra's best friend was her horse Charlie. Sandra used medicine given to her by the doctor to help Charlie.
+Context: Sandra's best friend was her horse Charlie. Sandra used medicine given to her by the doctor to help Charlie. Sandra"
+d46e5bd9-8a43-4670-b8c7-fe56f59cceae1," A. Lina burned the donuts.
+Explanation: Lina burned the donuts.
+Context: Lina wanted to go to the movies. Lina had a lot of money.
+Hypotheses: A. Lina went to the movies. B. Lina had a lot of"
+76f66eea-eb60-434d-842d-68568348fbd4-1," A. A nice lady felt bad for the dog.
+Explanation: The context is that there was a stray dog in the city. The hypothesis is that a nice lady felt bad for the dog.
+Context: There was a stray dog in the city. He took the dog home and kept him"
+9f343476-a847-42a2-aa75-b9a7563b6476-1," A. She invited her friends to a movie.
+Explanation: Lulu invited her friends to a movie.
+Context: Lulu was bored. Her friends ended up loving it.
+Hypotheses: A. She invited her friends to a movie. B. Lulu took her pets to the"
+dab6e355-b513-475d-b3ae-41a1bcc99e60-1," A. Joan stuffed change in her purse.
+Explanation: Joan was impatient with the line at airport security. She watched embarrassed as a mountain of coins was dumped out.
+Hypotheses: A. Joan stuffed change in her purse. B. Joan was so excited she licked the coin"
+f610b1ac-e5e1-46f9-85e6-ac6d2688b720-1," A. Mike was an excellent student.
+The teacher was very disappointed.
+Mike didn't study for a test.
+The teacher was very disappointed.
+Mike was normally an excellent student.
+The teacher was very disappointed.
+Mike didn't study for a test. The teacher was very"
+b2df254f-fc49-4490-9f7d-bf75a7bd63a2-1," A. Stacy's mom couldn't drive and she didn't have time to drive her everywhere she needed to go.
+Hypotheses: A. Stacy's mom couldn't drive and she didn't have time to drive her everywhere she needed to go. B. Stacy"
+6e8b15d2-09c4-45f3-b854-9fa795c243e0-1," A. Lucy liked some shoes but grandma bought her other shoes.
+Explanation: Lucy liked some shoes but grandma bought her other shoes.
+Context: Lucy and her grandma went to the mall. Lucy rode home in silence upset she didn't get to pick her own shoes.
+Hyp"
+8d0401c3-75cc-40f9-b2be-0135cb9f13e5-1," A. Mike's fans were upset that he stopped writing.
+Explanation: Mike's fans were upset that he stopped writing.
+Explanation: Mike continued writing but his fans wrote angry letters.
+Context: Mike was a successful writer, but had gotten sick of writing. Mike decided to go"
+bba42c7f-d738-4af9-8959-ae1ab4a99ccd-1," A. Dan organized the dishes by size.
+Explanation: Dan looked at the two sinks full of dishes in despair. After that it was easy and he cleared both sinks in short order.
+Context: Dan looked at the two sinks full of dishes in despair. After that it was easy and"
+867de6bd-f5f2-49d2-b000-8a3d0049dbbb-1," A. A woman did not like that America was involved in the war.
+B. Vietnam the started losing the war.
+The task is to select the most probable hypothesis given the context and give a basic explanation.
+Context: The United States is the world’s largest producer of oil.
+Hypothes"
+d4a1b33c-7acb-4931-8d4e-cde40c89bdf0-1," A. Sal said a bad joke and nobody laughed.
+Explanation: The context is Sal had a toga party with his friends. The hypothesis is that Sal said a bad joke and nobody laughed.
+Context: Sal had a toga party with his friends. Sal tried to think of a witty ret"
+1884c64f-13f9-439c-93e0-96668712be36-1," A. Jerry broke a guitar string on stage, but only had a spare guitar pick.
+Explanation: Jerry was an award winning guitar player. Jerry continued playing the show with a replacement guitar.
+Context: Jerry was an award winning guitar player. Jerry continued playing the show with a replacement guitar.
+H"
+f8a623b4-a19c-4176-a576-2fda8da9d6161," A. The teacher pushed her and helped her to exceed.
+Hypotheses: A. The teacher pushed her and helped her to exceed. B. Annie took private lessons from her aunt.
+Answer: B. Annie took private lessons from her aunt.
+Hypotheses: A. The"
+394d3aa0-1426-41a0-8494-925dfb385eb3-1," A. The firefighters raced to their fire trucks and drove off.
+The fire trucks raced towards the fire.
+The fire trucks raced towards the fire.
+The fire trucks raced towards the fire.
+The fire trucks raced towards the fire.
+The fire trucks raced towards the fire.
+The fire trucks raced towards"
+4d9566bd-0380-4b10-aabe-48ce3386297b-1," A. The police officer told Ana she needed to report the crime.
+Explanation: The context is that Ana had witnessed a crime. The hypothesis is that the police officer told Ana she needed to report the crime.
+Context: Ana was a witness to a crime.
+Hypotheses: A."
+6e85099b-6686-4fca-a81a-bbf17f40c09e2," A. Candy wants to hang out with friends.
+Explanation: Candy woke up excited because it was her birthday. She is very happy no one gave her gifts.
+Context: Candy woke up excited because it was her birthday. She is very happy no one gave her gifts. She wants to hang out with"
+ea50900c-b9d5-4fa8-aa84-1b55c92e8cdc-1," A. Wilfred brought his car indoors due to rain.
+Hypotheses: A. Wilfred brought his car indoors due to rain. B. It started to rain.
+Answer: B. It started to rain.
+Hypotheses: A. Wilfred brought his car indoors due"
