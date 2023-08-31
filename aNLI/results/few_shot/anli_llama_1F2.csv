@@ -1,0 +1,2233 @@
+story_id,answer
+87aa0983-9b84-48b1-86ff-160b1567487c-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The correct answer is B.
+The second example is a bit confusing. The correct answer is A.
+"
+dfc8584e-13fe-4e26-bdf6-2485e90ef29d-1,"
+The correct scenario is A.
+
+
+A: The first scenario is more likely to be true.
+The second scenario is more likely to be true.
+The third scenario is more likely to be true.
+The fourth scenario is more likely to be true.
+The fifth scenario is more likely to be"
+bac4a9c0-be9c-41d3-bb5c-474a1aa7a78b-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Anne decided to cut out carbs from her diet. Anne started losing weight and soon wasn't very hungry. After a few weeks she did not even miss carbs at all!"
+e8a69a76-5ab1-4b00-b442-80d33c6e12cd-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Dan's neighbors know him for having a strange pet. Dan adopted a pig. Dan is glad to have his pet pig be a part of his family"
+78dd77c9-99e3-4977-89d7-bfd8f8de1504-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: I was typing at my desk. I adjusted my chair to a better height. I felt much more comfortable.
+
+*Scenario B: I"
+8d12101b-5a38-4bde-9366-c9ca32514f9c-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Tom applied for a job at a call center. His buddy Charles was already there. Tom and his friend had a lot of fun working together. Scenario B: Tom applied"
+a16ce8ce-9f32-441a-8113-6997d8988ece-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Bob was playing league of legends. Some of the other players insulted Bob. Bob was banned from the game for a month afterwards. Scenario B: Bob was playing league of"
+a447195b-bd1c-4793-9b9c-c2d5ab7806f9-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Tom's business decided to buy a franchised hotel. Tom's business plan made money for the hotel. The hotel profit grew and the business gave Tom huge bonus pay. Sc"
+903210da-9c27-4efb-b546-b3af848a153d-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: A man was given a glass angel for Christmas. The glass angel was broken. The man has never been so devastated. Scenario B: A man was given a glass angel for"
+582c4ec8-b1d4-4eac-a080-bc5e37e609cd-1,"
+The correct scenario is A.
+
+
+A: The first example is wrong.
+The second example is wrong.
+The third example is wrong.
+The fourth example is wrong.
+The fifth example is wrong.
+The sixth example is wrong.
+The seventh example is wrong.
+The eighth example"
+67079c75-ce1f-4ff4-92ed-220f3cc1cde4-1,"
+
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: I was four years old the first time I was ever bitten by a dog. I had a corgie bite, causing me hallucinations. I tugged it, and"
+bb63a874-2cf1-4ffc-8f75-b403c0b26be52,"
+The correct scenario is B.
+
+
+A: I think the correct answer is B.
+Scenario A: Sean loved music. Sean worked hard to write a bad song. He made the music and ended up making tons of money.
+Scenario B: Sean loved music. Sean worked hard"
+5387f126-41d3-4e7d-9027-72cf0a6c52a0-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in a hurry to get to work. I was late and I had to pay a fine. Scenario B: I was in a hurry to get to work. I"
+3a317d9a-06fd-4363-80d8-e0be38097d0d-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Pat was hauling bowling balls in his truck. One of the balls came loose and he lost control of the truck. Pat screamed as he tumbled into the water. Scen"
+4140e766-050c-4811-887e-8b12e2be190d-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Dan was digging in his yard to put in an extension to his home. Dan hit a pipe. When he sniffed the air he realized he'd struck a sewage pipe"
+96996797-6369-4709-9841-6dae421189f6-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Cassie was swimming in the pool. Her friend let her borrow her waterproof phone case. Cassie tried it and she was able to keep the water out. Scenario B"
+dffc1dd8-40d1-4ad8-b437-b154915783c8-1,"
+ The correct scenario is A.
+
+
+A: I'm not sure if this is the best way to do it, but I'd suggest using a dictionary to store the scenarios and then using a list to store the answers.
+scenario_dict = {
+ 'A': 'I always"
+2f421a84-5dbc-4fa8-a421-b0d0113de02a-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: His skin was always chapped since he spent his time in the cold. Mike decided to get a new job inside of a building. Mike wouldn't have to be out in the"
+eb7720a7-c234-4cb6-ae50-55768d70d5aa-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in a hurry to get to the airport. I was late and missed my flight. I had to spend the night in a hotel. Scenario B: I was in"
+22577f17-e744-4fa0-a8e7-ae764842498c-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Gin's climbed through a window to get into her house. Gin's brothers got stuck in the basement window. Gin's brothers raced each other to the one in the basement"
+9aa8eeaa-d8e4-4989-bd67-5353513a8140-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: I hated waking up in the morning. I got up early and got warning at work about arriving early. I realized I needed an alarm clock to avoid sleeping"
+9fa532d3-daeb-4269-8f04-71a0b6035fb9-1,"
+ The correct scenario is A.
+
+
+A: The first example is a bit confusing. The first sentence is a bit confusing. The second sentence is a bit confusing. The third sentence is a bit confusing. The fourth sentence is a bit confusing. The fifth sentence is a bit confusing. The sixth sentence is"
+ff38d303-fc0d-498f-9342-e193a85cffb5-1,"
+ The correct scenario is A.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: Three little girls were standing by a pool at a party. Her dad slipped and fell in the pool. The dad was then pulled out by the girl.
+
+The"
+e2930580-f202-4f81-b00a-57082c17fd9c-1,"
+The correct scenario is A.
+
+
+A: I think the first one is the correct one.
+
+A: I think the first one is the correct one.
+
+A: I think the first one is the correct one.
+
+A: I think the first one is the correct one."
+40ceae28-9539-4b79-94b8-bc3314d479a6-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Abby and Beck always read before bed. Abby and Beck need to learn to read. On the way up, they woke up, this is the last time she reads for them"
+71770122-dc12-4954-84d5-273e789321e32,"
+ The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The correct answer is B.
+
+A: The first one is correct.
+The second one is incorrect.
+The correct answer is A.
+"
+dd50749a-103a-4348-80e7-f23d88bad4a9-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Evan was a good student and got an A on his test. Evan was accused of cheating. Evan was a good student and got an A on his test. Evan was accused of cheating"
+3b2a458e-3967-4eb6-acf9-1b56c6fc23b0-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I wanted to do a different thing than the usual. I rented a comedy instead of a horror movie. I brought the movie home and watched the whole thing. Scenario B:"
+b3af4672-cc20-4816-84c9-6fd833b9beb1-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The man was sitting on the plane. The man saw a kid that needed help there. The man reported the kid to the flight attendants. Scenario B: The man was"
+4c71ab31-31f0-4ada-900b-c61b996a15b2-1,"
+ The correct scenario is B.
+
+
+A: I think the first one is the correct one.
+
+A: I think the first one is the correct one.
+
+A: I think the first one is the correct one.
+
+A: I think the first one is the correct one."
+5d0297ab-96c9-48ba-a71d-0da91c57a8ff-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: I asked my mother what she wanted me to make for Thanksgiving. She said I could try making pumpkin pie. We loved the soup! Scenario B: I asked my mother what"
+23a791d7-8563-416c-8768-c29df02554bc-1,"
+The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+eb3c880b-ca0e-41a4-aa8c-3e602ed593c01,"
+The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: I love taking long warm showers. Showers make me sleepy. That's why I take two of them every day.
+
+*Scen"
+44a68868-fdf2-4be3-93ad-86599c342dce-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The teacher asked the students to write a paragraph about their favorite food. The students wrote about their favorite food. Scenario B: The teacher asked the students to write a paragraph about"
+aa917ce0-43a2-46ff-bd14-5d5bdd574263-1,"
+The correct scenario is A.
+
+
+A: The first scenario is more likely to be true.
+The second scenario is more likely to be true.
+The third scenario is more likely to be true.
+The fourth scenario is more likely to be true.
+The fifth scenario is more likely to be"
+237f8984-25de-4a4c-99a8-a99219f1d605-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: We brought our cat home to our new house. Our neighbor doesn't like our cat because it gets in his yard. Now he comes to our house to yell and his at"
+fd33b1f3-83ad-4947-995e-9d1d69be059f-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Last Saturday, my wife went to a Christmas bazaar. My wife entered some raffles at the Christmas bazaar. I hope we win some raffles. Sc"
+8004aded-0087-4023-9f7e-745ec3242ac1-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: It was Kelly's first day of school tomorrow and she needed clothes. Kelly talked her parents into stealing fabric and ribbons along with her clothes so she could redesign the old clothes."
+7f6a1dae-f4db-4cf3-8038-f4004c17dca1-1,"
+ The correct scenario is B.
+
+
+A: The first one is a little bit more difficult to understand.
+
+Scenario A: Pablo wanted a jawbreaker. Pablo went to the gym. Then he bought his candy.
+
+This is a scenario where Pablo went to the gym and bought"
+7e890b79-8562-4a6a-bf77-529ee329742a-1,"
+The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+22dfb240-ff3c-4135-9e91-444e44ec1228-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The correct scenario is B.
+
+*The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+
+
+The reasoning task is"
+3a52741d-0dd9-4b2f-b79d-9449e3dc98cd-1,"
+ The correct scenario is B.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: James loves to go fishing James' fishing buddy moved away. James still loves to fish even if he is alone.
+
+This is a scenario where James is still going"
+da41ccbd-0303-40c2-a26e-9a718a278df9-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+
+
+*
+
+*Scenario A: Silas was a forgetful person. He started writing things down. Once he did, he no longer had problems remembering things.
+
+*Scenario B:"
+2333fbe7-309c-413d-8cd4-67ce80eaca90-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The minister had hired me to tend to his garden. I met the non-curate neightbor. She told me the minister had gotten her pregnant. Scenario B:"
+d0c35739-190f-4945-8bfa-b700c6889a1b-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Zeke had a dog. Zeke's cat was upset. Zeke bought the dog a new ball and the dog was happy again.
+
+"
+e4ad0eb1-ed43-4f41-923c-8f1b272570ef-1,"
+The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct because the first scenario is more likely to happen.
+The second one is incorrect because the second scenario is more likely to happen.
+"
+89e7a088-44f7-4180-b8fe-7e150e962a38-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The runner rounded 3rd base. The catcher was paying attention and avoided colliding with the runner. The catcher sprained his ankle in the collision. Scenario B"
+9009a9c5-a5ea-4281-b5ad-1d413bc27ee9-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: My boss quit and promoted me to her job. The promotion was unexpected. I seem to be doing better so I guess that's good. Scenario B: My boss quit"
+1d1c4d93-6915-4282-844c-83ae6a375840-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: A friend of mine owed me money and we agreed to meet at a park. Instead of the money he owed he stole a box of homemade cookies from the shop he used the money for"
+fca2884b-c607-4b59-a086-2ba021ca0d53-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I went with my girlfriend to Jamaica. We relaxed on the beach for a week. We cannot wait to go back. Scenario B: I went with my girlfriend to Jamaica"
+87c3e711-0f34-4620-b1d7-c33436b52546-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was playing on top of the monkey bars one day. but I slipped and bruised my arm. I had to go to the hospital. Scenario B: I was playing"
+6bdd3686-e49e-4e83-869d-bed942e3e83d-1,"
+ The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+2739d4b2-9721-4239-a6ff-6e04d45c4bbe-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I woke up so excited. I did not wait to get going, I just jumped in. I grabbed my backpack and step into the unknown. Scenario B: I woke"
+5667a8aa-a8e0-4055-bdf9-8815e6fe1145-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I set up my coffee pot for coffee in the morning. I used to make coffee in the middle of my mourning routine. Now, I make coffee everyday without a mess. Sc"
+4a68a83f-5da7-4b52-95f4-a6aeaa33927b-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Kelly was excited to attend a one direction concert. Kelly met one direction. Just as she thought, they were super nice. Scenario B: Kelly was excited to attend a one"
+8cd5c023-1bd7-4821-bd29-26bb06a35ddf2,"
+ The correct scenario is A.
+
+
+A: The first example is a bit confusing. The first sentence is a bit confusing. The second sentence is a bit confusing. The third sentence is a bit confusing. The fourth sentence is a bit confusing. The fifth sentence is a bit confusing. The sixth sentence is"
+f15ddccd-7a21-45c3-ab3f-241ef3b2e4d31,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The first scenario is more likely than the second scenario.
+
+*The second scenario is more likely than the first scenario.
+
+*The first scenario is more likely than the"
+03e9bbf0-9783-4c1a-b00c-625d3a59805d-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Mike went back home after work for lunch. Mike felt really lonely while eating. He ate his slice on the couch in the dark in silence. Scenario B: Mike went back"
+0f797de2-3d82-46d1-a370-c278a36ad7851,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+
+*Next, I will give you 1 example(s) for"
+bf8b9f77-692d-4873-a7e5-30dec273eb4d2,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The team was in the state finals. The team was in the state finals. The team was in the state finals.
+The correct scenario is A.
+
+Next, I will"
+963d3ae8-43ee-424f-afd2-9d225624201f-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Toni had trouble sleeping. Toni drank some tea and went to bed late. She had the best sleep she had in a long time. Scenario B: Toni had"
+5348daea-021f-4210-92ae-a0a52b576705-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: Debbie's cat was stuck up in the giant oak tree. Debbie made a commotion trying"
+f15ddccd-7a21-45c3-ab3f-241ef3b2e4d32,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: My mother has a recipe for pumpkin bars that I like quite a lot. My mother taught me how to make the fruitcake using her recipe. I made pumpkin bars later in life"
+547e9231-6b71-4cd3-8a82-0d597c315a4a-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+Scenario A: Tania wanted to be a cheerleader. So Tania went to tryouts at school and tried out. She didn't end up making the team.
+Scenario B: Tania"
+be0c5b83-6c8d-40a3-8e0e-e2d9f159f419-1,"
+The correct scenario is B.
+
+
+A: The correct answer is B.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios. Next, I will give you 1 example(s) for test.
+Scenario A: Abby and Beck"
+8cd70d09-7bad-44ce-8681-101645b5e825-1,"
+The correct scenario is A.
+
+
+A: I think the first one is correct.
+
+A: I think the first one is correct.
+
+A: I think the first one is correct.
+
+A: I think the first one is correct.
+
+A: I think the first"
+76fcb242-5a93-4526-a0d0-1e1daaa6c704-1," the kitchen and baked cookies.
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: It was a beautiful Christmas morning and Stacey was going to bake. Stacey and her mom baked cookies. When they were done, she took to"
+36a44b73-6d19-4fee-bd61-fc600e874248-1,"
+ The correct scenario is A.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: Mary let her cat out one night after constant meowing. Marys cat had never been outside and wanted in right away. Two hours later the cat was back with a"
+67041fdb-5cfa-48f4-9ab9-130a7b1be603-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The correct answer is B.
+The second example is a bit confusing. The correct answer is A.
+"
+59888f4b-4a47-45cc-aaa6-c4a7a7dfe8dc-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Dan had been writing in Starbucks for the past few days. Dan wanted to save money. Dan is glad that he is saving money by skipping Starbucks."
+18911d29-c93d-4721-aaee-4d395926e7a8-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Gina's crush Jamie broke his leg, and was on crutches. Gina wanted to walk home with Jamie to help him. Jamie was so far ahead she worried she"
+cd2880c6-3e1c-41c5-854d-3b73e2a0ebe21,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: The man in the red car was driving fast. The man rear ended a slower moving vehicle."
+106f0b8f-a795-4388-9f40-fe7134bc2946-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Dave had just watched a video of dogs trying lemons. Dave gave his dogs a treat and they loved it. Dave learned not to play mean tricks. Scenario B: Dave"
+bc18f305-4f3b-4296-a5ff-702dd706322c1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Emily took her child to the zoo. Emily's child was fascinated by the lion's roar. Emily's child walked closer to the lions. Scenario B:"
+a10dc43b-43f8-4702-8286-c20d23b68336-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: I was typing at my desk. I added a willow branch to sit on. I felt much more comfortable.
+
+*Scenario B:"
+20976b75-b949-4b8a-be45-c733eb7f6539-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The first scenario is that the wallet was in the car when the diver got back to his car. The second scenario is that the wallet was in the car when the diver got back to his car.
+The second example"
+bf8b9f77-692d-4873-a7e5-30dec273eb4d1,"
+ The correct scenario is A.
+
+
+A: The correct answer is B.
+
+
+*
+
+*Scenario A: Lydia loved to paint with water colors. She forgot to enter the art contest. Her painting won her first prize and an art school scholarship!
+
+*Scen"
+95bb42a0-a3f4-462a-8264-329cb40c772d-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Jill was excited to ski for the first time. Jill wanted to know what wildlife lived at the ski mountain. When her dad asked why she said because she thought she'd see b"
+0d976432-4844-4b5a-b9e0-7af3c174848e-1,"
+The correct scenario is A.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+c8ac86f3-0c8d-430f-96a8-d1374c9c37ff-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Jan's boss won't stop hitting on her. Jan took logged all of the inappropriate texts her boss sent her. They fool her boss and he never bothers her again."
+84c4e8a7-a4b4-4ae9-b9a0-9905ea57bc54-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: Annie and her family went on a road trip. Annie fell asleep in the car. Soon,"
+b751714c-5e34-43ac-8e70-c675bddc613c-1,"
+ The correct scenario is A.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: Sara wanted to plant some flowers. Sara planted many flowers in the sun. Soon, the flowers began to grow.
+
+This is a scenario where the event is happening"
+b95911a4-c63d-4ec9-ac5b-37c8b579fcd2-1,"
+The correct scenario is B.
+
+
+A: The correct answer is B.
+
+
+*
+
+*Scenario A: Ron was putting his horse in a race. Ron was excited to see how he would do at dog racing. The next day Ron's horse won the race.
+"
+9ea7e913-c437-47e6-9b53-2bf8b324f7e2-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: A woman was walking outside of a mall. The woman was wearing professional clothes and fancy shoes. People looked at her like she was crazy. Scenario B: A woman was"
+0a14cd78-254b-4adf-9ca2-da0f4cb6328b-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: Mike spends a lot of his time on the internet. Mike created a website that helps people search"
+f80d9033-bd3c-49c1-bcf1-6ec9e92f9b83-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Kiki wanted to learn to play the piano. Kiki practiced the piano a lot. Kiki eventually became very good at the piano! Scenario B: Kiki wanted to"
+c230bca2-9977-4ca5-9011-3d56a42b5f88-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Rick was at the local pool. Rick saw a child struggling in the water and walked over to help. The child was so relieved, he cried with gratitude! Scenario B:"
+bf00abac-541b-4853-8e54-f1ef31f5f356-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Jake was walking home from his college class. He encountered a man who was quite well off on the street. Jake brought a pizza slice to the man who was grateful for the meal."
+384e9eda-8f62-480d-9988-4efb26155f35-1,"
+The correct scenario is A.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+ea08ac25-ece5-45f9-bebf-3c02eb6940cf-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in the car with my friend. We were driving to the store. My friend was driving. Scenario B: I was in the car with my friend. We were"
+896a1b17-2dd1-4f0e-9168-7146939f6dcd2,"
+The correct scenario is B.
+
+
+A: The first scenario is more likely to be true.
+The second scenario is more likely to be true.
+The third scenario is more likely to be true.
+The fourth scenario is more likely to be true.
+The fifth scenario is more likely to be"
+6e1aafc7-0f31-410c-9040-9bb325450602-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Kimmy wanted to buy tickets for herself for a concert. She worked one day to afford it. She made enough money for the concert. Scenario B: Kimmy wanted to"
+d12c4ece-930d-40d6-85ea-9112993f3e331,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: When I was seven years old, I went swimming with some friends. It was a party for my seventh birthday. My birthday was the best day ever. Scenario B: When"
+556671c0-e3b5-4407-807b-bc80c524130d-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: I got a stain on my blue shirt. I couldn't get the stain out. my blue shirt looks horrible now.
+
+*Scenario"
+97b6825e-0468-4ce7-bbe9-6eb331a6009c-1,"
+ The correct scenario is B.
+
+
+A: The first example is wrong.
+The second example is wrong.
+The third example is wrong.
+The fourth example is wrong.
+The fifth example is wrong.
+The sixth example is wrong.
+The seventh example is wrong.
+The eighth example"
+557955c2-8f27-45e0-ae02-498f57755531-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Susan was at the pawn shop. Susan bought a new car. Susan eventually became very proficient at tap dancing. Scenario B: Susan was at the pawn shop."
+7e8df602-b632-4595-967c-fe982b643f3b-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: One day, Kevin went outside to check his mail. Kevin's mother had received a large package. When he opened it, he saw that it was a gift from his mother."
+70629f1f-b629-40b9-8783-ea04509127a0-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Bob had never tried coffee. Bob went to the coffee shop to buy a coffee. He decided to get a black coffee with one sugar.
+
+*"
+6015f416-2703-4d14-937f-5612841d04452,"
+ The correct scenario is A.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+69742aaa-ec73-4354-9de2-2ee4f8e19ec11,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The car was damaged when Amber fell asleep. It cost her boyfriend a lot of money to get fixed. Scenario B: The car was safe when Amber was asleep. It cost"
+c350c383-6703-4c81-b61e-1f403481a42b-1,"
+ The correct scenario is A.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+66b40ad4-25b1-4c11-b71f-caaf7680df20-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I married a girl that I also work with. We decided to work separately. She agreed that's a good idea and now we are much happier. Scenario B: I"
+530a7f9f-c8b5-4b26-a5f5-0bf05d79d08e-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Tish liked gardening in her yard. Animals began to eat her plants, so Tish observed their behavior. Tish's garden started to recover and look bright and green again."
+c2e81e75-d199-44cc-a0a1-761886e7c0a6-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Jake had been working hard all week long. Jake was going to go out this weekend even though his car wouldn't start. Jake had to cancel his plans due to car problems."
+dbd846d5-0a95-4532-9c0a-89d1c1f2df6b-1,"
+ The correct scenario is B.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: I once rode along on a friend's police patrol. I thought I heard a gunshot. I was terrified until I realized the car had simply backfired.
+"
+bede6f42-250a-44ba-8ffe-cf50afb11cd4-1,"
+The correct scenario is B.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+2b942f74-386c-4e70-acea-cd8c3722370f-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Jaiden was nervous about moving to a new home. Jaiden went outside to play basketball, but felt more nervous. Jaiden played into the afternoon, and felt his nervousness slip"
+631e2896-258e-4ddb-af34-b52757f8415c-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Rick had just recently gotten a smart watch. Rick remembered to sync his smart watch before leaving. Rick ended up missing his train because he didn't have the time. Scenario"
+75f6ea49-b31c-4577-aa20-f493e0eba1c8-1,"
+ The correct scenario is B.
+
+
+A: The first scenario is more likely to be true.
+The second scenario is more likely to be true.
+The third scenario is more likely to be true.
+The fourth scenario is more likely to be true.
+The fifth scenario is more likely to be"
+8d184896-38b8-4cde-91f5-b17cb2390d3d1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Iris was at the mall with her daughter. Iris was looking for a new pair of shoes. Iris saw a pair of shoes that she liked. Iris went to the"
+8227f76a-cb7a-48eb-8a69-c715e91fb072-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: My mom gave me a plate of food. I accidentally dumped way too much pepper on it. My food became salty and I had to throw it away"
+c0dcff62-44e2-422a-aaef-923beb31b1a3-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The police officer asked for the driver's license. The driver handed it to the officer. The officer asked for the registration. The driver handed it to the officer. The officer asked"
+0baf6a77-c910-45af-b87b-bc8707528c51-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Allie was wearing her favorite jeans. Allie tore her jeans while washing them. She had to repair them. Scenario B: Allie was wearing her favorite jeans."
+75d3389d-55f9-491b-9883-f56bf952c7ba-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Tim was waiting for the mail. Tim looked to his sundial. It was Sunday so there would be no mail. Tim was waiting for the mail. Tim desperately needed the part he"
+16537cae-b01b-499e-ae45-fe35406f9422-1,"
+The correct scenario is B.
+
+
+A: The first one is wrong.
+The correct answer is B.
+The reason is that the scenario B is more likely to happen.
+
+A: The first one is wrong.
+The correct answer is A.
+The reason is that the scenario A"
+32ef5e38-f9bd-4f28-8fbb-cd7771a08e59-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Greta played with her Jack in the box dozens of times. One day, a bug jumped out of the pantry. Greta was so startled she ran crying to her mother"
+d606cdaa-515c-4d65-a9f6-947f8d13432a-1,"
+The correct scenario is B.
+
+
+A: The correct answer is B.
+Scenario A: Sam was a musician. He didn't get booked at the club. His performance went really well.
+Scenario B: Sam was a musician. He got booked at the club. His"
+999d9ada-3ccd-4e1d-a971-4d93789aa4aa-1,"
+The correct scenario is B.
+
+
+A: The correct answer is B.
+Scenario A: Cam made a bird feeder in art class. Cam designed it to replicate her childhood lemons. Cam was so pleased with his handiwork!
+Scenario B: Cam made a bird"
+0081e6ba-0d00-4091-a7b6-5c0fe7d857b3-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The first sentence is a bit confusing. The second sentence is a bit confusing. The third sentence is a bit confusing. The fourth sentence is a bit confusing. The fifth sentence is a bit confusing. The sixth sentence is"
+2851728a-131d-4fe3-b88a-90cffa01379c-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: The man in the red car was driving fast. The man rear ended a slower moving vehicle."
+2168b3ee-7975-4072-83c8-f29b809c243b-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Laura and her husband had two little girls. Laura was pregnant again. Laura was pregnant not with one baby but with twins! Scenario B: Laura and her husband had two little"
+f963b993-a48b-4390-9464-fbae5f86b518-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The first scenario is that Donald ran for president and his opponent was more popular. The second scenario is that Donald ran for president and his opponent was a criminal.
+The second example is a bit confusing. The first scenario"
+b4adfbf4-2e20-44ca-8e65-036142b4078c-1,"
+The correct scenario is A.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+37493eb8-ba2e-4cb3-b270-9da5bdbf8e65-1,"
+The correct scenario is B.
+
+
+A: The first example is wrong. The second example is wrong.
+The correct answer is B.
+
+A: The first example is wrong. The second example is wrong.
+The correct answer is B.
+"
+0047de81-b7cf-43a0-9f5b-176491b985bb-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The first scenario is more likely than the second scenario.
+
+*The second scenario is more likely than the first scenario.
+
+*The first scenario is more likely than the"
+7f6f41a9-0028-4f8d-b4ec-bcc390591a78-1,"
+The correct scenario is A.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+e6062c32-f1eb-4026-95fc-6cc2db46f70d-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in the library when I saw a girl I knew from school. She was sitting on the floor with her back to me. She was reading a book. Scenario B"
+15bdf14b-7fba-43e7-b53e-184ce389a588-1,"
+The correct scenario is A.
+
+
+A: The first scenario is more likely to be true.
+The second scenario is more likely to be true.
+The third scenario is more likely to be true.
+The fourth scenario is more likely to be true.
+The fifth scenario is more likely to be"
+fea12618-5110-4c33-9b89-296d32928aed-1,"
+ The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct because the first scenario is more likely to happen.
+The second one is incorrect because the second scenario is more likely to happen.
+"
+1540800d-0dfb-4bdd-bad0-aed0ca89df54-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The little girl went hiking in the mountains with her dad. Somehow, the two got separated and the little girl was lost for several days. Her dad came and carried her to safety"
+99937112-691b-440b-8b49-0083e36796d8-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Jason had wanted to travel to Spain for his whole life. Jason worked hard to save up enough money to go to France. Jason had the vacation of his dreams in Spain. Scen"
+b6808ad4-57de-4975-b75e-b2b9e5b5cd1e-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The rodeo came to town. We all went to the rodeo. It was a great time for all. Scenario B: The rodeo came to town. They"
+ca6b1a16-e9db-466d-8f90-9b2ed062aa5c-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The city wanted to build a mall. The city hired contractors to build the mall. When the mall was done it was so beautiful. Scenario B: The city wanted to build"
+d313ed5f-56c3-40ee-918a-efeef6818d882,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was very disappointed. I joined a fantasy football league for the first time this year. My team played a great game. I was very disappointed. Scenario B: I was"
+87aeeeb4-ca43-4587-ad93-056dea97f0ba-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The little sister found out she was having a baby brother. The littler sister was so excited that she made her new baby brother a crib and cleaned the entire house. The"
+37b3f8a3-3b87-498c-9be0-daaf96e10b89-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: I was so very tired. I put on my pajamas and went to bed. I was about to go to sleep when a marching band rolled by. Scenario B:"
+171af203-8619-458c-9cc8-ca5f6107a49b-1,"
+ The correct scenario is A.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: My fitness instructor told everyone to stand straight. I followed what my mind said. At the end of the day, I felt sore.
+
+This is a scenario where"
+23beb5ae-0916-466d-b67f-624d80026558-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in a car accident. I was in a car accident. I was in a car accident.
+ The correct scenario is A.
+
+Next, I will give you an"
+1b2c8960-b846-49a4-a8a3-46d429f4c4b2-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+
+*Next, I will give you 1 example(s) for"
+3d04c8a4-67ea-4364-8391-f0265adc2117-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Dan had been writing in Starbucks for the past few days. Dan was living care free until his book could be published. Dan is glad that he is saving money by skipping Starbucks."
+cd9ce176-fd0b-4d9e-880a-5c1660e1b8e6-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Gina needed to find something to fit in the door handle slot. Gina had locked her keys in the house. It was a long shot, but she had to try everything."
+108c3481-7efc-43ea-80bc-50b02c7d240f-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Bree and her friends were playing on her trampoline. Bree bounced and hit the springs. She was badly hurt and all of her friends decided not to jump. Sc"
+127daf23-f8a3-45af-94c4-f94e727107271,"
+ The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+61b6f263-4d6b-4a60-a764-99cd22355d3d-1,"
+The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios. Next, I will give you 1 example(s"
+195eb16e-c240-4320-8a0f-41e0daa2f51d-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The Entree meals were distributed to the judges. The judges judged the best and worst meals. The official disqualified the contestant who made the plate. Scenario B: The"
+ea7e69cb-4105-4aab-bd65-588f831ccc4e-1,"
+
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The teacher was a very strict teacher. The students were very good students. Scenario B: The teacher was a very strict teacher. The students were very good students.
+"
+49765630-1923-441c-960b-ca1e4441dc08-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The first scenario is about a father who is upset and the second scenario is about a father who is upset and the son is trying to ignore him.
+The second example is a bit confusing. The first scenario is about"
+ef142000-b8b8-44b0-8558-1033edd89b78-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The runner rounded 3rd base. As the runner slid into home he crashed into the catcher. The catcher sprained his ankle in the collision. Scenario B"
+961a77ca-e5a0-4726-bcde-bb1fa1a92c58-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Professor Smith was a well liked teacher of black history. A racial slur used Professor Smith in class. Professor Smith asked for forgiveness, he'd recently had a stroke. Scen"
+109cf806-aa3f-4371-9bc3-41a9fcc177bb-1,"
+The correct scenario is B.
+
+
+A: The first example is wrong. The correct answer is B.
+The second example is wrong. The correct answer is A.
+"
+c195bdb3-e2fe-43ec-9708-871638d6fd3c-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+Scenario A: Sara entered herself in a dance contest at her school. Sara practiced her routine for weeks. She got first place for her routine.
+Scenario B: Sara entered herself in a dance contest at"
+ac365c50-d129-4d35-97d1-f5f2af2f66da-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Every day, Donald starts his mornings by eating a box of donuts. Donald was eating outside before it started to pour. He was soaking wet by the time he got back"
+658ff2a6-00f5-4014-8ab1-547cddd9aa0f-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Karen didn't wash her hands after visiting her sick friend. Karen then ate dinner. She came down with the same fever and cough her friend had.
+ The correct scenario is A"
+08f96eba-d2d7-4a03-b1b4-d6bda758dc88-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in a car accident. I was in a coma for 3 days. I was in a coma for 3 days.
+
+The correct scenario is A"
+c9ef6b84-e4e2-4036-8a8d-62f613349884-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Harry was a lonely man. Harry saw an old friend while out shopping. After talking for a short while they each left the shop separately. Scenario B: Harry was a lonely"
+47a3fe43-8741-4dc5-bb21-c151bcb70742-1,"
+ The correct scenario is A.
+
+
+A: The correct answer is A.
+
+
+*
+
+*Scenario A: Saul was new to the neighborhood. Saul saw a dirty park and invited neighbors to help clean it. Now his son can play in a clean park.
+
+*Sc"
+4eb674b8-844c-4279-bf3a-420371f31010-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: David and Pam went to a coffee shop. Pam was upset her cup was broken. So she blamed the coffee shop for her cup having a broken lid. Scenario B: David"
+8a097b15-5263-4ab8-8e43-9adb3f2cf00f-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Jay and I went to the beach. We enjoyed the perfect weather. Driving home, we realized we should have checked the weather first.
+
+*Sc"
+0fbadd33-9a9c-493e-a850-552d3ce4fb15-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Ben and his brother made a secret clubhouse. Ben and his brother made a policy of no girls allowed. Ben and his brother felt safe knowing no girl could enter! Scenario"
+a3bd6fa6-986a-4633-b24f-41d5ca1d0a96-1,"
+The correct scenario is A.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+cbd66f79-94ff-4565-8933-f0bec44f718a-1,"
+ The correct scenario is A.
+
+
+A: The first one is wrong because it is not consistent.
+The second one is wrong because it is not more likely.
+The third one is wrong because it is not consistent.
+The fourth one is wrong because it is not more likely.
+The fifth"
+3b32b317-8311-47ef-83a7-d2594c8719c8-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The little sister found out she was having a baby brother. The little sister helped get the baby's room ready. The little sister was given a cookie for her behavior. Scen"
+27c1ef75-f02b-4956-9260-ebfee8764c8f-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Tom was watching the basketball game on television. Tom bet money against his favorite team. Tom was very pleased his team ended up winning. Scenario B: Tom was watching the basketball"
+eaa11059-bdec-4d81-8d54-ca006bff517a-1,"
+
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in a car accident. I was in a car accident. I was in a car accident.
+
+The correct scenario is A.
+
+Next, I will give"
+eb5e4621-5d56-4495-98f0-622be6cefa58-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+
+*Next, I will give you 1 example(s) for"
+f0829acc-86fe-44f9-ac9f-4ca6ac2a77181,"
+ The correct scenario is B.
+
+
+A: The first example is wrong.
+The second example is wrong.
+The third example is wrong.
+The fourth example is wrong.
+The fifth example is wrong.
+The sixth example is wrong.
+The seventh example is wrong.
+The eighth example"
+f9e6bf5f-ba88-4108-994e-529750445ff11,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: My mom asked if she can borrow $100 dollars from me. My mom paid me back the next time she could. I told my mom to keep using my credit card."
+35a3c70b-3275-4421-9d11-ec44095287fd-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The correct answer is B.
+The second example is a bit confusing. The correct answer is A.
+"
+7afc5a90-083e-4ed3-a237-04e8fc625dcb-1,"
+ The correct scenario is A.
+
+
+A: The first one is a little bit more difficult to understand.
+
+Scenario A: Three little girls were standing by a pool at a party. The dad walked by and jumped into the pool and started to swim. The dad was then pulled out by"
+aed3acc4-6697-4123-9272-207ba8985435-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: My aunt took a family portrait of everyone at the party. My aunt didn't want me to be in the picture without her. I didn't bother to ask for a copy"
+317eddc2-e116-47c7-9829-ede3caa700e5-1,"
+ The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+eec1769b-7af5-4224-9db0-a56f12a78cf5-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Billy went to the hardware store with his father. James got lost looking at toys. Billy found an employee who called his father for him. Scenario B: Billy went to the"
+391f5b4e-ffac-4184-be40-438c4304d9221,"
+ The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+e9e73c14-cb6c-4362-9152-34e6b454e2e5-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Linda was sitting in her backyard reading her favorite book. She was waiting for her boyfriend to come home. Her husband had come home early! Suddenly she heard a familiar voice. Her husband"
+5f0fb986-9b3a-4929-ab41-b7a12c1e93ec-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I bought some chicken at the store. I paid even more after paying too much the week before. I felt vindicated. Scenario B: I bought some chicken at"
+5812d42e-86f8-4820-a3b0-78fa20a3b08c-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Matt and his girlfriend went on a trip. Matt and his girlfriend packed a lot of food. They went to a store and bought more food. Scenario B: Matt and his"
+943978bb-5cd2-4040-a2f3-ad38a8477e0b-1,"
+The correct scenario is B.
+
+
+A: The correct answer is B.
+Scenario A: Sara entered herself in a dance contest at her school. Sara totally forgot her routine she had practiced for weeks. She got first place for her routine.
+Scenario B: Sara entered herself in"
+fde4f0d8-2e98-429c-ace7-5c38769df606-1,"
+The correct scenario is B.
+
+
+A: The first scenario is more likely to be true.
+The second scenario is more likely to be true.
+The third scenario is more likely to be true.
+The fourth scenario is more likely to be true.
+The fifth scenario is more likely to be"
+e08b9e1c-d6de-4872-9bf6-d64215bae078-1,"
+The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: The dog looked up from his cage, almost as if sad. The man tugged at the lonely dog's heartstrings. The man saved the"
+711609b5-9a5b-4402-836e-9ebbc8458d26-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Zach placed powder into his friend's drink. Zach's friend got sick with cancer. Zach told him that's what he gets for taking his money. Zach's friend"
+7dc38e77-a406-4933-a6a3-ac421b08cbf7-1,"
+ The correct scenario is B.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+6ed793f7-b357-414a-a813-6cb9d40206c4-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Helena finally got the toy she had begged for for weeks. Helena had to mow the lawn all winter for the toy. Helena wasn't very satisfied with the exchange. Sc"
+1ae618b6-7e17-4bab-ad78-a5bc0903df59-1,"
+The correct scenario is B.
+
+
+A: The correct answer is B.
+Scenario A: One day, I wanted to make waffles. I waited twenty minutes for the flexible to heat up. Then, I realized I had never plugged the waffle iron in.
+Sc"
+dd4432d1-caab-44ad-b2b6-ab85e0c057d9-1,"
+The correct scenario is B.
+
+
+A: The correct answer is B.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios. Next, I will give you 1 example(s) for test.
+Scenario A: Bill was at the"
+c8435a07-314f-465b-85ed-3e3bb05f50eb-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Betty took a walk along the beach. Betty was exited to find a perfectly round sand dollar. Betty took her new keepsake home to show her mother. Scenario B:"
+62587ab6-394e-4fa0-bfd2-104c361d200e-1,"
+ The correct scenario is B.
+
+
+A: The first example is wrong. The correct answer is B.
+The second example is wrong. The correct answer is A.
+"
+77f37921-693b-4cb2-bcc8-8c6b8a2757f3-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: I woke up for work and couldn't find my shoes. I searched for them everywhere. On the couch cushion I found my shoes and was able to go to work. Scen"
+1d16e0ec-5b9a-4352-b0e5-71ff02b9880e-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Bob just arrived in Chicago. Bob went sightseeing that evening. He couldn't believe how breathtaking all the lights at night were!
+
+*Sc"
+33633fff-980d-42fd-945f-7c557186e2f8-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: A girl named Julie in pigtails asked the vendor for cotton candy. The vendor gave Julie what she wanted. Julie skipped away happily, and the man smiled. Scenario B"
+83cc928c-b473-4934-9b84-1e3f7346bed8-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Jill loved to bargain hunt at thrift stores. Jill found a purse she loved. Later, she learned that the bag was Chanel brand and worth thousands! Scenario B:"
+d76006eb-9467-460e-9f2d-4d954f68cff2-1,"
+The correct scenario is B.
+
+
+A: The first example is wrong.
+The second example is wrong.
+The third example is wrong.
+The fourth example is wrong.
+The fifth example is wrong.
+The sixth example is wrong.
+The seventh example is wrong.
+The eighth example"
+f982ae74-c3d1-41f6-a173-7c3ddec21104-1,"
+ The correct scenario is B.
+
+
+A: The first one is wrong.
+The second one is wrong.
+The third one is wrong.
+The fourth one is wrong.
+The fifth one is wrong.
+The sixth one is wrong.
+The seventh one is wrong.
+The eighth one"
+3f56965b-ce1c-44d1-9468-45f85945b971-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The men played golf every Sunday morning. While playing golf, Frank stepped in a hole and broke his nail. It was a costly game for Frank this week. Scenario B:"
+0239ea56-7067-4605-8a93-419783a789c0-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was a little girl and I was really excited to go to the zoo. I was so excited that I didn't even notice that the zoo was closed. Scenario B"
+2c9f2267-ec1b-436d-af2a-10d2fd2302d2-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The farmer planted a large garden for the town. The farmer gave vegetables to his family. The town always looks forward to the yearly garden.
+
+*The farmer planted a large"
+f2c2ff3d-b53b-48a5-a22e-d8ebaa8a013a-1,"
+ The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct because it is more likely that Sally is famous for marker paintings than William is.
+The second one is incorrect because it is more likely that Sally is famous for marker"
+e5dd1c8c-b993-40da-9451-42496967f186-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: John wanted to become a pro baseball player. John thought he could get by only by playing football. He ended up going to work for mcdonald's. Scenario"
+1d24ef2a-98eb-4797-9e52-ebf7a4d15df4-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: For Mitch's birthday, his friend gave him a history book. Mitch wrote an inscription inside the book. The inscription said that the friend hoped Matched liked the book."
+565504d1-6088-4f15-a592-d7dded8412571,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+Scenario A: Sean had some guitars on stands. Sean didn't make sure the stands were steady. The guitar broke and Sean was pretty upset.
+Scenario B: Sean had some guitars on stands."
+f612d4c0-335a-4ae4-8c44-9d9591661dfb-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Kali went to do her first video music video. Kali met with some people. She was so turned off, she turned around and left. Scenario B: Kali"
+a5cb9952-605f-40db-a67c-c5120f3ee948-1,"
+
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in a hurry to get to the airport. I had to leave at 6:00. I was in a hurry to get to the airport. I had to"
+71fc7ec4-04b0-4c11-915b-93d6aa866186-1,"
+ The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+2ef42f27-39bf-40d8-8636-108de35831031,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The correct scenario is A.
+
+*The correct scenario is B.
+
+*The correct scenario is C.
+
+*The correct scenario is D.
+
+*"
+1048609e-3912-424e-ac74-3b4caec4a2cb-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The correct scenario is A.
+
+*The correct scenario is B.
+
+*The correct scenario is C.
+
+*The correct scenario is D.
+
+*"
+5869fbe2-b5ab-4dae-af9f-e40b03816276-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Cleo couldn't read, but she wanted to learn. Cleo asked her parents to sign her up for school. And finally one week, she read a whole story aloud"
+df657317-604f-48f7-abd6-94b2d3343f78-1,"
+ The correct scenario is A.
+
+
+A: The first example is wrong.
+The second example is wrong.
+The third example is wrong.
+The fourth example is wrong.
+The fifth example is wrong.
+The sixth example is wrong.
+The seventh example is wrong.
+The eighth example"
+0ea89e83-ca2d-48da-abca-245027c6812c1,"
+The correct scenario is A.
+
+
+A: The first one is a bit more difficult to understand.
+Scenario A: The two friends hated their job. Bob was not getting a promotion. He knew he must request a transfer.
+Scenario B: The two friends hated their job."
+1ac972de-c238-4aff-a516-9f0a4afc0b23-1,"
+The correct scenario is B.
+
+
+A: The first scenario is more likely to be true.
+The second scenario is more likely to be true.
+The third scenario is more likely to be true.
+The fourth scenario is more likely to be true.
+The fifth scenario is more likely to be"
+715cab6a-0f9b-452e-9e76-f09e2de3fb11-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Cindy had a guy friend. Cindy and a guy friend had an affair, her friend never told his girlfriend that he cheated on her. The guy never"
+274adecf-9505-4827-bacc-1e265433d8f1-1,"
+ The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+b6d81d61-4ebf-434c-90ea-43a05b3bab6e-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I woke up in the middle of the night. I turned on the light so I will not trip over a chair on the way to the bathroom. I learned that I should always turn"
+1d4880ad-8571-448a-8754-f35c20b0b992-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The chef was finished with his plate. The chef threw the plate of food to the floor beside patron who ordered them. Since the food was spicy, he wasn't able to eat"
+58277b50-3382-4021-bd81-861de682935f-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Pippa and George loved playing in mud puddles. Pippa and George rolled around in the mud with their clothes on. They were covered in mud from head to toe"
+da5ec41e-4fd5-4a1c-b2ad-67fd6c8b11651,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Joy's pastor asks her to sing at church. Joy is very excited but also very nervous. When the time comes for her to sing, Joy faints. Scenario B"
+2ba6a29f-c6cb-4be4-8958-3f76ccf6f08e2,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Tom worked at a nice office. Tom's eyes were itchy. He went to the pharmacy to buy eye drops to remedy his situation.
+
+"
+044aa8e7-d415-4285-981e-66c412c4e5c8-1,"
+ The correct scenario is A.
+
+
+A: I think you are asking for a way to determine which of the two scenarios is more likely.
+The way I would do this is to use Bayes' rule.
+Let's say that the probability of scenario A is $p_A$ and"
+894d241f-394e-43d2-95ed-e7f01da28361-1,"
+The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The first scenario is more likely than the second scenario.
+
+*The second scenario is more likely than the first scenario.
+
+*The first scenario is more likely than the"
+12a391ef-74e3-43ad-b9f4-3a0b2c345505-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Jeff took a pen out of his junk drawer to write a check. Jeff decided to give to 0 charities this month. He wrote ten checks with the red pen. Scen"
+aef8a3d9-ea8a-4659-a24a-471eb9bbfa26-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Amy was watching a show at her friend's house. Amy was able to stay there and watch the whole show. Amy couldn't remember the channel and missed the show finish."
+3570e906-de24-44c0-9f6a-d9c48c61d3ec-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I didn't date a single growing up. I met a person and got married. We've now been together for four Years and three months. Scenario B: I"
+dec283f7-e03d-480e-9fde-47bfdab33cb3-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Hank had a feeling his kids were snooping for Christmas gifts. Hank his the gifts in the basement. Till the morning he heard screams and pounding on the basement door."
+e088f8f4-0593-47fe-9f9c-0bdb2ef04d62-1,"
+ The correct scenario is B.
+
+
+A: The first example is a bit confusing. The first scenario is that Cory went down a very steep hill on a longboard. Cory got up and was fine. He was picked up by a car and taken to the hospital.
+The second scenario is that Cory"
+0f277b11-2ac7-4769-b857-6055461ec5581,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Daniel had a crush on a girl, so he asked her to the movies. They had fun, but didn't talk much. Daniel decided he would"
+57f0ad88-0dad-4cce-95da-30175ff0ba401,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The players were excited about the upcoming game. They won and went to state. This win was the most important win on the year. Scenario B: The players were excited about"
+c0b763f6-cab4-4f71-b327-809fdd16e20c-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: George wanted his own house but did not have the money to buy one. George saved three years for land and a house. Three years later George drove to his land to live in his"
+46fc0598-5227-403b-8260-57241a9a272f-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+Scenario A: My fitness instructor told everyone to stand straight. It was the first step in a long exercise routine. At the end of the day, I felt sore.
+Scenario B: My fitness instructor"
+3e86d474-c6a0-4400-82fd-0ef719edf379-1,"
+ The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+35437912-20c3-4c95-9f71-8a19129884e5-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Tim was going to his graphic design class. Tim's phone died in the middle of his presentation. Tim borrowed the charger and finished the presentation. Scenario B: Tim"
+b4f3c7fd-a604-435a-93fd-50520e183e55-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Johnny was a punk rocker. Johnny threw his guitar at the crowd. The cops shot them. Scenario B: Johnny was a punk rocker. He started a song at"
+d854dce9-c080-4e3a-a983-2a8b37a70c05-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The first scenario is more likely to be true.
+
+*The second scenario is more likely to be true.
+
+*The third scenario is more likely to be true."
+d3a567ee-0860-440d-984d-6f296ddc423d-1,"
+ The correct scenario is A.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: Patricia's favorite toy was her set of interlocking blocks. Patricia played with them every day she could. Patricia would later become a mechanical engineer.
+
+This"
+2e41f1e7-165c-4f8b-9100-c2690401f2f0-1,"
+
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: A man was walking down the street when he saw a woman in a red dress. He thought she was beautiful. He asked her for a date. She said she was married."
+8bd50b4c-581e-4d2c-b991-0a2a6e6520ef-1,"
+The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+1e778fb4-f071-4851-bc73-82fbf6e33c44-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Fred wanted to do marathons just like his dad did. Fred finished 3rd from last in his first marathon. His dad was very proud of him. Scenario B"
+f17937ef-0251-4a80-a0c5-e6779805c21e2,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Rick told his friends that he hated camping. Rick went to a zoo instead. Rick petted the snake happily. Scenario B: Rick told his friends that he hated camping."
+b067f68f-f925-485b-8d72-0a37706cf97c-1,"
+ The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The correct answer is A.
+The reason is that the first scenario is more likely to happen.
+The second scenario is more likely to happen if the weather is colder.
+"
+885ab40f-f5db-4ef8-a3ba-687f7bb029cb-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in the hospital for a week. I was in the hospital for a week. I was in the hospital for a week.
+The correct scenario is A.
+
+Next"
+84249fb9-80ac-477e-9016-89ce6cd7b14a2,"
+ The correct scenario is B.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+32211c52-e8bf-4b39-9bfe-ec6141f80a47-1,"
+The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Our pet dog was weighed at the vet yesterday. Our vet told us our dog was overweight. We put him on a healthy diet immediately.
+
+"
+06fc4da5-de21-4e96-a5a7-76d9546427e8-1,"
+ The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: Jordan and his girlfriend of three Year's decided to move in together. The pair began fighting"
+193f9173-a9de-4101-a6e6-96da7b7365ef-1,"
+ The correct scenario is A.
+
+
+A: The correct answer is B.
+
+
+*
+
+*Scenario A: Jamie becomes fat after Years of driving to the office. Jamie bought a pair of running shoes. Jamie wishes he had begun biking Years ago.
+
+
+*Sc"
+3df7f464-b071-476b-843a-ad708224316b-1,"
+ The correct scenario is A.
+
+
+A: The first example is a bit confusing. The first scenario is about a boy who fell off his bike. The second scenario is about a boy who fell off his bike.
+The second example is a bit confusing. The first scenario is about a boy who fell"
+caaeb42b-6ef3-4523-a758-0796475fd746-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: My driveway was stained dark in some places. I decided to power wash the driveway. After I was done, the driveway was clean.
+
+*Sc"
+8ec15d43-6ae9-495f-99ca-a76f776e7695-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Becky wanted to impress her pals. Becks friends have a rock collection. She walked along the road picking up rocks to fill the spaces. Scenario B: Becky wanted to"
+cdbdae8f-03ce-4835-aabc-7d6694204e4b-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Rita wanted to do something special for her mom. Rita got a present for her mom. Afterwards, her mother thanked Rita for being so thoughtful. Scenario B: Rita wanted"
+b42168ef-7492-408e-a8a7-1cced17b9512-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Craig had troubles with his spine. He went to a massage therapist and liked it. Craig now goes there at least once a week. Scenario B: Craig had troubles with his"
+c9e0ad92-16a3-4721-b221-bc7a7ea721952,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The correct scenario is A.
+
+*The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+
+
+The reasoning task is"
+4fe38f87-15d1-4039-a76a-0001ab7180ba-1,"
+ The correct scenario is B.
+
+
+A: The correct answer is B.
+Scenario A: Jill was adopted but had always wondered about her real mom. Jill's mom said she did not have her birth mom's number. Jill called her adoptive mom and thanked her for being her"
+bb074ec5-dc10-4ca3-8cc0-500019d7a5ba-1,"
+ The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*The mother and son were baking brownies together. The son had way too many brownies. The son later said he had a stomach ache.
+
+*The mother and"
+14791a39-5879-4cc8-91ef-ce366e93bdc61,"
+The correct scenario is A.
+
+
+A: The first example is a bit confusing. The first scenario is about a computer mouse, and the second scenario is about a computer.
+The second example is a bit confusing. The first scenario is about a computer mouse, and the second scenario is about a computer"
+7ed61df8-cd66-491a-9466-046f5994c4c3-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Emily was working on a painting. Emily used a lot of red paint. She had ruined her painting with a huge stroke of white. Scenario B: Emily was working on a"
+6aa302f5-f690-41b4-a91e-ff4ca5526dad-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: A man was flying a hot air balloon and was high up. He lowered the balloon right before the helium blower stopped. He crawled out out the basket and was glad to"
+2e93f0cb-6955-46b0-a12f-458901532c08-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Karen wanted everything to be perfect when she met her new in-laws. Karen wanted to go to a cheap restaurant. Turns out, his parents loved Chinese food most of all. Sc"
+07d077be-6bd2-4deb-b13b-60b75365473a-1,"
+ The correct scenario is A.
+
+
+A: The first one is a bit more difficult to understand.
+
+Scenario A: Dan was in high school. Dan had problems reading while in high school. His teacher never knew.
+
+This is a scenario where Dan was in high school, but"
+ccb4ad57-5f35-495c-887e-b94243db7c35-1,"
+ The correct scenario is A.
+
+
+A: The correct answer is A.
+Scenario A: Sal the radio DJ spent a lot of his day sorting through fan mail. He received a lot of mail but it didn't make much of an impression on him. When every letter was opened he"
+a473186c-ffde-4b02-bfed-88205d40aa08-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: I always try to close my chicken coop just before dark. The hen hated to be out in the yard and stayed in. I always have to wait to close the coop when"
+ecb1b244-9245-4c6d-a0d0-ea7a2c796589-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Amy was going to Walgreen's one night. Amy found some cash on the ground and picked it up. Amy hadn't seen anyone go in the store so she kept the"
+28c1058a-5923-4a6a-86e1-7813922e271d-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Michael needed a new friend. He met a boy at a party and he talked Michael into stealing a car. Michael regretted ever meeting him. Scenario B: Michael needed"
+eec681d4-5db0-454b-9c4b-581abd631902-1,"
+The correct scenario is A.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: Last week I went to our building common room to read. I read the entire book in one sitting. I liked the book so much I bought another one"
+a0e28d0b-f3ad-4bf7-bfbb-e5c1446148e7-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: I always try to close my chicken coop just before dark. My wife tells me when to"
+829ba485-874b-4421-a44d-fbf657e7ccc9-1,"
+ The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+Scenario A: Helen wanted to be a dancer. Helen didn't want to but she taught instead. She"
+c53cf763-722c-40f7-b177-08811eb55fcb-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: I was in a car accident. I was in a car accident. I was in a car accident.
+ The correct scenario is A.
+
+Next, I will give you an"
+851fc250-1bed-47ea-8ef3-60a95053ca16-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Lucy needed a new case. Lucy received a gift card as a gift. She couldn't have been happier. Scenario B: Lucy needed a new case. Lucy found a"
+cde1252f-f3a0-4581-ba60-14b2a794f20a-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Sheila was determined to have the wedding of her dreams. Sheila spared no expense when she planned her wedding, buying only the most lavish decorations and food. All of her guest"
+94e24b1f-a120-4f54-a4ce-0fdc43070ff7-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: One morning, Joe was driving to work. Joe got into a bike accident. Unfortunately, Joe had to buy a new car. Scenario B: One morning, Joe was driving"
+04dad9be-d5b7-4171-a3d6-a1942147bc47-1,"
+ The correct scenario is B.
+
+
+A: The correct answer is B.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios. Next, I will give you 1 example(s) for test.
+Scenario A: Corey feels very heart"
+e44c9a8a-94bd-4c2e-9d50-97fe07c060ed-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: It was Ariana's birthday and she decided to go to Miami. She had the time of her life!. Ariana couldn't wait to go back. Scenario"
+309811d9-8b8f-4bdc-97d8-59d7be4bf5e7-1,"
+ The correct scenario is B.
+
+
+A: I think you are asking for a way to compare two scenarios.
+I think you can use the following:
+
+
+*
+
+*Scenario A: I took my dog to the park the other day. Another dog was barking. Eventually"
+7e4b3080-dade-4f76-b5ca-582bbd3d2517-1,"
+The correct scenario is A.
+
+
+A: The correct answer is B.
+
+
+*
+
+*Scenario A: Emily was going to jail, and she was excited. Emily has worked very hard to be imprisoned. Today was her first day as a corrections officer!
+
+*Sc"
+73d5cd76-f7fe-46d9-8b56-e1ee3431e7a4-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Tom and Jerry were riding their bikes. Tom and Jerry's tires popped and they walked home. It was a horrible 3 hours for them. Scenario B: Tom and"
+dfd78fb7-241e-4e4d-a80f-46ba8727fe20-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Marya had misplaced her house keys. She could not find them forever. Behind her were her keys on the braided rug. Scenario B: Marya had misplaced"
+7045c09d-485b-40a7-a8b7-442d7d4fa9fb-1,"
+The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one is incorrect.
+The first one is correct.
+The second one"
+3ac26be6-c668-4eb5-900f-86351eea0b08-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Susie was running late for work. Susie grabbed her coffee mug. Her dog had taken it outside. Scenario B: Susie was running late for work. Susie"
+e0105d64-5710-45ef-9ab6-12c3f3614417-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: A sign painter was hired for work at a fine dining restaurant. The waiter misspelled the special entree. The guest just assumed that it was a French spelling and kept walking"
+00da6576-4444-477a-b2b6-f3936ce8e963-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Yesterday Kelly went out to eat. The waiter brought the wrong food twice and didn't apologize. She did not leave a tip and never wanted to return. Scenario B"
+c232b7d7-2e19-403b-b8f6-48ff1b0ee67c-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Olivia went to a highly rated pizza restaurant. Olivia had read reviews that it was only mediocre. Olivia was reluctant to trust online reviews again. Scenario B: Olivia went"
+4ba92854-6822-4f71-82b1-cd43aeb54d4b-1,"
+The correct scenario is A.
+
+
+A: The first scenario is more likely to be true.
+
+
+*
+
+*Pam crashed because it was too dark to see.
+
+*She took her car in the very next day to get it fixed for real.
+
+
+The second"
+8444b0dc-60d7-4e95-9c62-7a47ef12ef46-1,".
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Joe was a lonely man. Joe gave away a few pets. He was much happier now that he some companions in his life. Scenario B: Joe was a lonely man"
+f4d5db55-fcc9-46ee-8abe-8af883b2f5c9-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Matt wanted to be an action hero like in the movies. Matt joined the Army. In his attempt to save the day, he was shot and killed. Scenario B: Matt"
+3cb11099-3cb1-4ccf-8956-e47d9ce9740e-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Today was the day Hannah began her new job. Her coworkers were welcoming, and her work was easy. Hannah decided she loved her new job. Scenario B: Today"
+7481c81f-3160-4ea3-a034-2bc2e89d6f2e-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: I was craving a BLT sub. I ate a whole large sandwich. My belly looks very round now.
+
+*Scenario B:"
+0ffedc8a-9a29-4003-8029-9930f53fb45c-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Katie's class took a trip to the zoo today. Everyone in the class had fun. The trip to the zoo was a success and Katie can't wait to go back."
+db05c29a-9aed-4b8e-a38e-82667340eb17-1,"
+ The correct scenario is A.
+
+
+A: The first example is a bit confusing. The first sentence is a bit confusing. The second sentence is a bit confusing. The third sentence is a bit confusing. The fourth sentence is a bit confusing. The fifth sentence is a bit confusing. The sixth sentence is"
+d46e5bd9-8a43-4670-b8c7-fe56f59cceae1,"
+The correct scenario is A.
+
+
+A: The first example is wrong. The correct answer is B.
+The second example is wrong. The correct answer is A.
+"
+76f66eea-eb60-434d-842d-68568348fbd4-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: There was a stray dog in the city. A nice lady felt bad for the dog. She took the dog home and kept him. Scenario B: There was a str"
+9f343476-a847-42a2-aa75-b9a7563b6476-1,"
+The correct scenario is A.
+
+
+A: The first one is correct.
+The second one is incorrect.
+The correct answer is A.
+
+A: The first one is correct.
+The second one is incorrect.
+The correct answer is A.
+"
+dab6e355-b513-475d-b3ae-41a1bcc99e60-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: The players were excited about the upcoming game. This was the final playoff game. This win was the most important win on the year. Scenario B: The players were excited about"
+f610b1ac-e5e1-46f9-85e6-ac6d2688b720-1,"
+The correct scenario is A.
+
+
+A: The correct answer is A.
+The reasoning task is to choose the more consistent and more likely scenario from a given pair of scenarios.
+
+Scenario A: Angie wanted to treat her puppy to a new toy. Angie bought her puppy a toy at"
+b2df254f-fc49-4490-9f7d-bf75a7bd63a2-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The county inspectors visited our trailer park. They said everything looked good. Then John and I built a really stable set of handrails for my steps. Scenario B:"
+6e8b15d2-09c4-45f3-b854-9fa795c243e0-1,"
+ The correct scenario is B.
+
+
+A: I think you are looking for the following:
+
+
+*
+
+*Scenario A: I took a trip to the local animal shelter yesterday to take a look. I couldn't find a cat named Saucy. I scooped her out"
+8d0401c3-75cc-40f9-b2be-0135cb9f13e5-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Mike was a successful writer, but had gotten sick of writing. Mike's fans were upset that he stopped writing. Mike decided to go back to writing, and said sorry to his"
+bba42c7f-d738-4af9-8959-ae1ab4a99ccd-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Dan looked at the two sinks full of dishes in despair. Dan organized the dishes by size. After that it was easy and he cleared both sinks in short order. Scen"
+867de6bd-f5f2-49d2-b000-8a3d0049dbbb-1,"
+The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The United States was involved in the Vietnam War. The United States was involved in the Vietnam War. The United States was involved in the Vietnam War.
+The correct scenario is A."
+d4a1b33c-7acb-4931-8d4e-cde40c89bdf0-1,"
+ The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Sal had a toga party with his friends. Sal said a bad joke and nobody laughed. Sal tried to think of a witty retort, but failed. Scenario B"
+1884c64f-13f9-439c-93e0-96668712be36-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Gina's friend Tami had a folder that Gina wanted. Gina's friend wouldn't tell where the phone was. So she decided she would try to find"
+f8a623b4-a19c-4176-a576-2fda8da9d6161,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Annie was the top gymnast in her class. The teacher pushed her and helped her to exceed. She was very happy with the teacher. Scenario B: Annie was the"
+394d3aa0-1426-41a0-8494-925dfb385eb3-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: The alarm bell rang in the firehouse. The firefighters raced to their fire trucks and drove off. The fire trucks raced towards the fire. Scenario B: The alarm bell rang"
+4d9566bd-0380-4b10-aabe-48ce3386297b-1,"
+ The correct scenario is B.
+
+Next, I will give you an example for test.
+ #Scenario A: Ana had witnessed a crime. The police officer told Ana she needed to report the crime. Reassured, Ana went and testified. Scenario B: Ana had witnessed a crime"
+6e85099b-6686-4fca-a81a-bbf17f40c09e2,"
+The correct scenario is A.
+
+
+A: The first one is wrong because it is not consistent.
+The second one is wrong because it is not more likely.
+The third one is wrong because it is not consistent.
+The fourth one is wrong because it is not more likely.
+The fifth"
+ea50900c-b9d5-4fa8-aa84-1b55c92e8cdc-1,"
+The correct scenario is A.
+
+Next, I will give you an example for test.
+ #Scenario A: Ada was a little taken aback by nature's violence! Scenario B: Ada was a little taken aback by nature's violence!
+The correct scenario"
