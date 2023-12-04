@@ -5,6 +5,3 @@ There are three main things:
 The thesis (PDF)
 aNLI Folder with code and results for prompting models on ART dataset (abductive reasoning) to answer Research Question 1 and 2.
 Generation Pipeline folder with code and results for creating data-to-text generation pipeline to answer Research Question 3. 
-
-
-<a href="https://github.com/Kristyna-Navitas/PromptingLanguageModelsforAbductiveReasoningTasks/blob/main/ExploringAbductiveReasoningInLanguageModelsForDataToTextGeneration.pdf" class="image fit"></a>
