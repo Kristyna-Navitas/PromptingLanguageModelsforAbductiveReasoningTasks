@@ -7,4 +7,5 @@ aNLI Folder with code and results for prompting models on ART dataset (abductive
 Generation Pipeline folder with code and results for creating data-to-text generation pipeline to answer Research Question 3. 
 
 
-[Paper for AICS](ExploringAbductiveReasoningInLanguageModelsForDataToTextGeneration.pdf)
+Paper from the thesis for AICS conference.
+[embed]https://github.com/Kristyna-Navitas/PromptingLanguageModelsforAbductiveReasoningTasks/blob/main/ExploringAbductiveReasoningInLanguageModelsForDataToTextGeneration.pdf[/embed]
